@@ -1,0 +1,445 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "id": "1",
+      "category": "Author's Insight",
+      "question": "Trong thời đại hiện nay, yếu tố nào trở nên quan trọng hơn bao giờ hết?",
+      "correct_answer": "Tri thức",
+      "incorrect_answers": [
+        "Tiền bạc",
+        "Sức khỏe",
+        "Quan hệ xã hội"
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Author's Insight",
+      "question": "Điều gì đang thay đổi thế giới với tốc độ chóng mặt?",
+      "correct_answer": "Công nghệ và AI",
+      "incorrect_answers": [
+        "Thời tiết",
+        "Chính trị",
+        "Kinh tế"
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Author's Insight",
+      "question": "Theo tác giả, nếu không có tri thức, chúng ta sẽ dễ dàng bị gì?",
+      "correct_answer": "Bỏ lại phía sau",
+      "incorrect_answers": [
+        "Bỏ rơi",
+        "Thất nghiệp",
+        "Ốm đau"
+      ]
+    },
+    {
+      "id": "4",
+      "category": "Author's Insight",
+      "question": "Tỷ lệ tư duy vô thức trong mỗi người chiếm bao nhiêu phần trăm?",
+      "correct_answer": "95%",
+      "incorrect_answers": [
+        "50%",
+        "70%",
+        "85%"
+      ]
+    },
+    {
+      "id": "5",
+      "category": "Author's Insight",
+      "question": "Các sinh viên mới ra trường thường lúng túng khi trả lời câu hỏi nào?",
+      "correct_answer": "Bạn đi học để làm gì?",
+      "incorrect_answers": [
+        "Bạn học trường nào?",
+        "Bạn có kế hoạch gì trong tương lai?",
+        "Bạn thích học môn nào nhất?"
+      ]
+    },
+    {
+      "id": "6",
+      "category": "Author's Insight",
+      "question": "Mục tiêu của nhiều sinh viên mới ra trường xoay quanh điều gì?",
+      "correct_answer": "Kiếm tiền",
+      "incorrect_answers": [
+        "Trở thành chuyên gia",
+        "Đóng góp cho xã hội",
+        "Trở thành nhà lãnh đạo"
+      ]
+    },
+    {
+      "id": "7",
+      "category": "Author's Insight",
+      "question": "Một nền tảng giáo dục hiện đại có thể đào tạo ra những cá nhân biết làm việc hiệu quả nếu sự tiếp nhận kiến thức là vô thức không?",
+      "correct_answer": "Không",
+      "incorrect_answers": [
+        "Có",
+        "Có thể",
+        "Không rõ"
+      ]
+    },
+    {
+      "id": "8",
+      "category": "Author's Insight",
+      "question": "Sự hưng vong của một quốc gia phụ thuộc vào điều gì?",
+      "correct_answer": "95% tư duy vô thức",
+      "incorrect_answers": [
+        "5% tư duy có ý thức",
+        "Chính sách kinh tế",
+        "Sự lãnh đạo"
+      ]
+    },
+    {
+      "id": "9",
+      "category": "Author's Insight",
+      "question": "Ba vấn đề lớn mà nhân loại đang đối mặt là gì?",
+      "correct_answer": "Đói, nghèo, bệnh tật",
+      "incorrect_answers": [
+        "Ô nhiễm, tội phạm, thất nghiệp",
+        "Thiếu giáo dục, bạo lực, bất bình đẳng",
+        "Chiến tranh, thiên tai, khủng hoảng tài chính"
+      ]
+    },
+    {
+      "id": "10",
+      "category": "Author's Insight",
+      "question": "Tư duy thực thi giúp chúng ta làm gì?",
+      "correct_answer": "Hóa giải sai lệch nhận thức",
+      "incorrect_answers": [
+        "Tăng cường sức khỏe",
+        "Làm việc chăm chỉ hơn",
+        "Tiết kiệm tiền bạc"
+      ]
+    },
+    {
+      "id": "11",
+      "category": "Author's Insight",
+      "question": "Nghiên cứu của Daniel Kahneman và Amos Tversky chỉ ra rằng các quyết định của con người thường bị ảnh hưởng bởi điều gì?",
+      "correct_answer": "Sai lệch nhận thức",
+      "incorrect_answers": [
+        "Thời gian",
+        "Kinh nghiệm cá nhân",
+        "Cảm xúc"
+      ]
+    },
+    {
+      "id": "12",
+      "category": "Author's Insight",
+      "question": "Bước đầu tiên trong tư duy thực thi là gì?",
+      "correct_answer": "Xác định mục tiêu",
+      "incorrect_answers": [
+        "Đặt câu hỏi",
+        "Tìm câu trả lời",
+        "Hành động"
+      ]
+    },
+    {
+      "id": "13",
+      "category": "Author's Insight",
+      "question": "Tư duy thực thi giúp chúng ta cảm thấy gì khi đạt được các mục tiêu đặt ra?",
+      "correct_answer": "Thỏa mãn và hạnh phúc",
+      "incorrect_answers": [
+        "Mệt mỏi",
+        "Lo lắng",
+        "Bất mãn"
+      ]
+    },
+    {
+      "id": "14",
+      "category": "Author's Insight",
+      "question": "Bằng cách áp dụng tư duy thực thi, chúng ta học cách đánh giá cao điều gì?",
+      "correct_answer": "Những thành tựu của mình, dù nhỏ nhất",
+      "incorrect_answers": [
+        "Những thành tựu của người khác",
+        "Những thất bại trong cuộc sống",
+        "Những khó khăn trong công việc"
+      ]
+    },
+    {
+      "id": "15",
+      "category": "Author's Insight",
+      "question": "Theo báo cáo của World Economic Forum, các kỹ năng tư duy phản biện và sáng tạo sẽ là yếu tố quan trọng nhất cho sự phát triển cá nhân và nghề nghiệp vào năm nào?",
+      "correct_answer": "2030",
+      "incorrect_answers": [
+        "2025",
+        "2040",
+        "2050"
+      ]
+    },
+    {
+      "id": "16",
+      "category": "Author's Insight",
+      "question": "Tác giả tự mô tả mình là gì?",
+      "correct_answer": "Người đưa tin",
+      "incorrect_answers": [
+        "Chuyên gia tâm lý",
+        "Nhà nghiên cứu khoa học",
+        "Nhà quản trị tài ba"
+      ]
+    },
+    {
+      "id": "17",
+      "category": "Author's Insight",
+      "question": "Theo tác giả, điều gì giúp vượt qua rào cản nhận thức và kích hoạt tư duy mở?",
+      "correct_answer": "Sự kiên trì và quyết tâm",
+      "incorrect_answers": [
+        "Công nghệ",
+        "Tài chính",
+        "May mắn"
+      ]
+    },
+    {
+      "id": "18",
+      "category": "Author's Insight",
+      "question": "Tác giả cảm ơn công cụ nào đã giúp hoàn thành quyển sách này?",
+      "correct_answer": "ChatGPT",
+      "incorrect_answers": [
+        "Google",
+        "Wikipedia",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "id": "19",
+      "category": "Author's Insight",
+      "question": "Tư duy thực thi không chỉ là phương pháp làm việc mà còn là gì?",
+      "correct_answer": "Triết lý sống",
+      "incorrect_answers": [
+        "Một thói quen xấu",
+        "Phương pháp học tập",
+        "Kỹ thuật quản lý"
+      ]
+    },
+    {
+      "id": "20",
+      "category": "Author's Insight",
+      "question": "Tác giả khuyên bạn đọc nên làm gì để thoát khỏi cái bẫy của sai lệch nhận thức?",
+      "correct_answer": "Tìm kiếm tri thức mới và thay đổi bản thân",
+      "incorrect_answers": [
+        "Chấp nhận thực tại",
+        "Tự mãn với hiện tại",
+        "Tránh xa công nghệ"
+      ]
+    },
+    {
+      "id": "21",
+      "category": "Author's Insight",
+      "question": "Theo Paul MacLean, lý thuyết 'Bộ não tam giác' chia não người thành mấy phần chính?",
+      "correct_answer": "Ba phần",
+      "incorrect_answers": [
+        "Hai phần",
+        "Bốn phần",
+        "Năm phần"
+      ]
+    },
+    {
+      "id": "22",
+      "category": "Author's Insight",
+      "question": "Não bò sát điều khiển các chức năng nào?",
+      "correct_answer": "Chức năng sống cơ bản như thở, tuần hoàn máu và tiêu hóa",
+      "incorrect_answers": [
+        "Tư duy phức tạp và cảm xúc",
+        "Lập kế hoạch và giải quyết vấn đề",
+        "Giao tiếp và ngôn ngữ"
+      ]
+    },
+    {
+      "id": "23",
+      "category": "Author's Insight",
+      "question": "Não bò sát chủ yếu dựa trên hoạt động gì?",
+      "correct_answer": "Bản năng sinh tồn và phản xạ",
+      "incorrect_answers": [
+        "Tư duy logic",
+        "Cảm xúc và ký ức",
+        "Sáng tạo và tưởng tượng"
+      ]
+    },
+    {
+      "id": "24",
+      "category": "Author's Insight",
+      "question": "Chức năng chính của não bò sát không bao gồm điều gì?",
+      "correct_answer": "Tư duy phức tạp và cảm xúc",
+      "incorrect_answers": [
+        "Điều hòa thân nhiệt",
+        "Phản xạ tự động",
+        "Kiểm soát các chức năng sinh lý cơ bản"
+      ]
+    },
+    {
+      "id": "25",
+      "category": "Author's Insight",
+      "question": "Hệ viền trong não động vật có vú chủ yếu kiểm soát điều gì?",
+      "correct_answer": "Cảm xúc, trí nhớ và hành vi xã hội",
+      "incorrect_answers": [
+        "Chức năng sống cơ bản",
+        "Tư duy trừu tượng",
+        "Phân tích logic và giải quyết vấn đề"
+      ]
+    },
+    {
+      "id": "26",
+      "category": "Author's Insight",
+      "question": "Hệ viền bao gồm các phần nào sau đây?",
+      "correct_answer": "Trung tâm cảm xúc, trung tâm trí nhớ, trung tâm điều chỉnh cơ thể và trung tâm xử lý thông tin",
+      "incorrect_answers": [
+        "Thân não và tiểu não",
+        "Phần trước trán và phần thị giác",
+        "Phần nói và phần hiểu"
+      ]
+    },
+    {
+      "id": "27",
+      "category": "Author's Insight",
+      "question": "Khi gặp lại người bạn thân sau nhiều năm, cảm xúc vui mừng và xúc động được điều khiển bởi phần nào của não?",
+      "correct_answer": "Hệ viền",
+      "incorrect_answers": [
+        "Não bò sát",
+        "Thân não",
+        "Vỏ não (neocortex)"
+      ]
+    },
+    {
+      "id": "28",
+      "category": "Author's Insight",
+      "question": "Phần nào của não chịu trách nhiệm cho việc điều khiển các phản xạ tự động như rút tay lại khi chạm vào vật nóng?",
+      "correct_answer": "Não bò sát",
+      "incorrect_answers": [
+        "Não động vật có vú",
+        "Hệ viền",
+        "Vỏ não (neocortex)"
+      ]
+    },
+    {
+      "id": "29",
+      "category": "Author's Insight",
+      "question": "Phần nào của não giúp chúng ta lập kế hoạch và ra quyết định?",
+      "correct_answer": "Phần trước trán của vỏ não (neocortex)",
+      "incorrect_answers": [
+        "Thân não",
+        "Hệ viền",
+        "Não bò sát"
+      ]
+    },
+    {
+      "id": "30",
+      "category": "Author's Insight",
+      "question": "Chức năng của phần thị giác trong vỏ não là gì?",
+      "correct_answer": "Xử lý thông tin thị giác",
+      "incorrect_answers": [
+        "Điều chỉnh cơ thể",
+        "Tạo ra ngôn ngữ",
+        "Kiểm soát vận động"
+      ]
+    },
+    {
+      "id": "31",
+      "category": "Author's Insight",
+      "question": "Phần nào của não giúp chúng ta hiểu ngôn ngữ?",
+      "correct_answer": "Phần hiểu",
+      "incorrect_answers": [
+        "Phần trước trán",
+        "Phần nói",
+        "Phần cảm nhận"
+      ]
+    },
+    {
+      "id": "32",
+      "category": "Author's Insight",
+      "question": "Chức năng của phần thính giác và ký ức trong vỏ não là gì?",
+      "correct_answer": "Xử lý thông tin thính giác và liên quan đến trí nhớ và cảm xúc",
+      "incorrect_answers": [
+        "Điều chỉnh cơ thể",
+        "Tạo ra ngôn ngữ",
+        "Kiểm soát vận động"
+      ]
+    },
+    {
+      "id": "33",
+      "category": "Author's Insight",
+      "question": "Phần nào của não chịu trách nhiệm cho khả năng tưởng tượng và sáng tạo?",
+      "correct_answer": "Vỏ não (neocortex)",
+      "incorrect_answers": [
+        "Não bò sát",
+        "Thân não",
+        "Hệ viền"
+      ]
+    },
+    {
+      "id": "34",
+      "category": "Author's Insight",
+      "question": "Chức năng chính của phần trước trán trong vỏ não là gì?",
+      "correct_answer": "Kiểm soát hành vi, lập kế hoạch và ra quyết định",
+      "incorrect_answers": [
+        "Xử lý thông tin cảm giác",
+        "Điều chỉnh thân nhiệt",
+        "Tạo ra cảm xúc"
+      ]
+    },
+    {
+      "id": "35",
+      "category": "Author's Insight",
+      "question": "Phần nào của não không liên quan đến tư duy logic hay cảm nhận cảm xúc?",
+      "correct_answer": "Não bò sát",
+      "incorrect_answers": [
+        "Hệ viền",
+        "Vỏ não (neocortex)",
+        "Cả ba phần trên đều không liên quan"
+      ]
+    },
+    {
+      "id": "36",
+      "category": "Author's Insight",
+      "question": "Phần nào của não giúp chúng ta nhớ lại các sự kiện đã qua và học hỏi từ chúng?",
+      "correct_answer": "Hệ viền",
+      "incorrect_answers": [
+        "Não bò sát",
+        "Thân não",
+        "Vỏ não (neocortex)"
+      ]
+    },
+    {
+      "id": "37",
+      "category": "Author's Insight",
+      "question": "Phần nào của não giúp chúng ta xử lý thông tin cảm giác và định vị không gian?",
+      "correct_answer": "Phần cảm nhận",
+      "incorrect_answers": [
+        "Phần trước trán",
+        "Phần nói",
+        "Phần hiểu"
+      ]
+    },
+    {
+      "id": "38",
+      "category": "Author's Insight",
+      "question": "Chức năng chính của phần nói trong vỏ não là gì?",
+      "correct_answer": "Tạo ra ngôn ngữ và nói chuyện",
+      "incorrect_answers": [
+        "Hiểu ngôn ngữ",
+        "Xử lý thông tin thính giác",
+        "Điều chỉnh thân nhiệt"
+      ]
+    },
+    {
+      "id": "39",
+      "category": "Author's Insight",
+      "question": "Chức năng chính của phần trước trán là gì?",
+      "correct_answer": "Kiểm soát hành vi, lập kế hoạch và ra quyết định",
+      "incorrect_answers": [
+        "Xử lý thông tin cảm giác",
+        "Điều chỉnh thân nhiệt",
+        "Điều hòa cảm xúc"
+      ]
+    },
+    {
+      "id": "40",
+      "category": "Author's Insight",
+      "question": "Khi bạn cảm nhận nhiệt độ của một tách cà phê, phần nào của não đang hoạt động?",
+      "correct_answer": "Phần cảm nhận",
+      "incorrect_answers": [
+        "Phần trước trán",
+        "Phần nói",
+        "Phần thị giác"
+      ]
+    }
+  ]
+}

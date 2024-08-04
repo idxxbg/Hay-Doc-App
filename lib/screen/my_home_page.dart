@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:progressive_image/progressive_image.dart';
 
 import 'package:hay_doc_app/style.dart';
 
@@ -25,6 +26,14 @@ class MyHomePage extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              ProgressiveImage(
+                placeholder: AssetImage("assets/images/placeholder.jpg"),
+                thumbnail: AssetImage("assets/images/placeholder.jpg"),
+                image: NetworkImage(
+                    "http://idxxbg.xp3.biz/API/haydoc/images/execution%20thinking.webp"),
+                width: 200,
+                height: 200,
+              ),
               const SizedBox(height: 20),
               Hero(
                 tag: "image",

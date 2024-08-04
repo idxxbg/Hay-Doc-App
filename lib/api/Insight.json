@@ -440,6 +440,1776 @@
         "Phần nói",
         "Phần thị giác"
       ]
+    },
+    
+    {
+        "id": "41",
+        "category": "Author's Insight",
+        "question": "Phần nào của não chịu trách nhiệm xử lý thông tin thị giác?",
+        "correct_answer": "Phần thị giác",
+        "incorrect_answers": [
+            "Phần trước trán",
+            "Phần cảm nhận",
+            "Phần nói"
+        ]
+    },
+    {
+        "id": "42",
+        "category": "Author's Insight",
+        "question": "Hệ viền giúp xây dựng và duy trì các mối quan hệ xã hội bằng cách nào?",
+        "correct_answer": "Bằng cách ghi nhớ các trải nghiệm tích cực và tiêu cực với người khác",
+        "incorrect_answers": [
+            "Bằng cách xử lý thông tin thị giác",
+            "Bằng cách kiểm soát hành vi sinh tồn",
+            "Bằng cách điều chỉnh thân nhiệt"
+        ]
+    },
+    {
+        "id": "43",
+        "category": "Author's Insight",
+        "question": "Khi bạn nhớ lại một kỷ niệm đẹp, phần nào của não đang hoạt động?",
+        "correct_answer": "Hệ viền",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Thân não",
+            "Tiểu não"
+        ]
+    },
+    {
+        "id": "44",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta diễn đạt suy nghĩ và cảm xúc qua lời nói và viết?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Phần trước trán",
+            "Phần nói",
+            "Phần hiểu"
+        ]
+    },
+    {
+        "id": "45",
+        "category": "Author's Insight",
+        "question": "Tư duy trừu tượng và phân tích logic là chức năng của phần nào trong não?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ viền",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "46",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta lập kế hoạch cho các sự kiện tương lai?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ viền",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "47",
+        "category": "Author's Insight",
+        "question": "Chức năng của phần thị giác trong vỏ não là gì?",
+        "correct_answer": "Xử lý thông tin thị giác",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Tạo ra ngôn ngữ",
+            "Kiểm soát hành vi"
+        ]
+    },
+    {
+        "id": "48",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta phản ứng với các tình huống nguy hiểm hoặc căng thẳng?",
+        "correct_answer": "Hệ viền",
+        "incorrect_answers": [
+            "Phần trước trán",
+            "Phần cảm nhận",
+            "Phần nói"
+        ]
+    },
+    {
+        "id": "49",
+        "category": "Author's Insight",
+        "question": "Khi bạn chạm vào một vật nóng, phần nào của não sẽ kích hoạt phản xạ rút tay lại?",
+        "correct_answer": "Não bò sát",
+        "incorrect_answers": [
+            "Phần trước trán",
+            "Hệ viền",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "50",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta cảm nhận và phản ứng với nhiệt độ cơ thể?",
+        "correct_answer": "Não bò sát",
+        "incorrect_answers": [
+            "Hệ viền",
+            "Vỏ não (neocortex)",
+            "Cả ba phần trên"
+        ]
+    },
+    {
+        "id": "51",
+        "category": "Author's Insight",
+        "question": "Con người là kết quả của quá trình tiến hóa từ các loài động vật trước đây và mang trong mình những đặc điểm của mấy phần não?",
+        "correct_answer": "Ba phần não",
+        "incorrect_answers": [
+            "Hai phần não",
+            "Bốn phần não",
+            "Năm phần não"
+        ]
+    },
+    {
+        "id": "52",
+        "category": "Author's Insight",
+        "question": "Phần nào của não chịu trách nhiệm cho các hành động bản năng và phản xạ nhanh chóng?",
+        "correct_answer": "Não bò sát",
+        "incorrect_answers": [
+            "Não động vật có vú",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "53",
+        "category": "Author's Insight",
+        "question": "Ví dụ nào sau đây là kết quả của hoạt động của não bò sát?",
+        "correct_answer": "Phản xạ rụt tay khi chạm vào vật nóng",
+        "incorrect_answers": [
+            "Nhớ lại kỷ niệm đẹp",
+            "Lập kế hoạch cho dự án",
+            "Cảm nhận niềm vui khi gặp lại bạn thân"
+        ]
+    },
+    {
+        "id": "54",
+        "category": "Author's Insight",
+        "question": "Não bò sát giúp chúng ta thực hiện các chức năng sống cơ bản nào?",
+        "correct_answer": "Thở, tuần hoàn máu và tiêu hóa",
+        "incorrect_answers": [
+            "Cảm xúc và ký ức",
+            "Sáng tạo và đổi mới",
+            "Phân tích và lập kế hoạch"
+        ]
+    },
+    {
+        "id": "55",
+        "category": "Author's Insight",
+        "question": "Hệ limbic chịu trách nhiệm cho những chức năng nào sau đây?",
+        "correct_answer": "Cảm xúc và ký ức",
+        "incorrect_answers": [
+            "Phản xạ và bản năng",
+            "Tư duy cao cấp và sáng tạo",
+            "Điều chỉnh thân nhiệt"
+        ]
+    },
+    {
+        "id": "56",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp nhận diện và phản ứng với các cảm xúc như vui, buồn, sợ hãi?",
+        "correct_answer": "Hạch hạnh nhân",
+        "incorrect_answers": [
+            "Thân não",
+            "Hồi hải mã",
+            "Vỏ não (neocortex)"
+        ]
+    },
+    {
+        "id": "57",
+        "category": "Author's Insight",
+        "question": "Khi bạn gặp lại một người bạn thân sau nhiều năm, phần nào của não chịu trách nhiệm cho cảm giác vui mừng và xúc động?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Tiểu não"
+        ]
+    },
+    {
+        "id": "58",
+        "category": "Author's Insight",
+        "question": "Hồi hải mã trong hệ limbic có chức năng gì?",
+        "correct_answer": "Lưu trữ và hồi tưởng lại các ký ức dài hạn",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Phân tích và lập kế hoạch",
+            "Điều chỉnh cảm xúc"
+        ]
+    },
+    {
+        "id": "59",
+        "category": "Author's Insight",
+        "question": "Phần nào của não chịu trách nhiệm cho các chức năng tư duy cao cấp như phân tích, lập kế hoạch và sáng tạo?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ limbic",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "60",
+        "category": "Author's Insight",
+        "question": "Khi bạn lập kế hoạch cho một dự án công việc, phần nào của não sẽ giúp bạn suy nghĩ về các bước thực hiện và dự đoán các khó khăn?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Thân não",
+            "Hệ limbic",
+            "Não bò sát"
+        ]
+    },
+    {
+        "id": "61",
+        "category": "Author's Insight",
+        "question": "Neocortex là nơi khởi nguồn của điều gì?",
+        "correct_answer": "Sự sáng tạo và đổi mới",
+        "incorrect_answers": [
+            "Bản năng sinh tồn",
+            "Phản xạ tự động",
+            "Ký ức dài hạn"
+        ]
+    },
+    {
+        "id": "62",
+        "category": "Author's Insight",
+        "question": "Hiểu về cấu trúc và phương thức hoạt động của não bộ giúp chúng ta nhận ra điều gì?",
+        "correct_answer": "Tầm quan trọng của tư duy và cách nó ảnh hưởng đến cuộc sống",
+        "incorrect_answers": [
+            "Sự tồn tại của bản năng sinh tồn",
+            "Sự phân biệt giữa cảm xúc và ký ức",
+            "Các phản xạ tự động và bản năng"
+        ]
+    },
+    {
+        "id": "63",
+        "category": "Author's Insight",
+        "question": "Mỗi phần não đóng góp vào cách chúng ta làm gì?",
+        "correct_answer": "Phản ứng, cảm nhận và suy nghĩ",
+        "incorrect_answers": [
+            "Ngủ, ăn và tiêu hóa",
+            "Học hỏi và ghi nhớ",
+            "Tìm kiếm thức ăn và điều chỉnh thân nhiệt"
+        ]
+    },
+    {
+        "id": "64",
+        "category": "Author's Insight",
+        "question": "Tư duy không chỉ là một khái niệm trừu tượng mà còn là gì?",
+        "correct_answer": "Một công cụ mạnh mẽ giúp đạt được những điều tuyệt vời",
+        "incorrect_answers": [
+            "Một thói quen",
+            "Một hành vi bản năng",
+            "Một phản xạ tự động"
+        ]
+    },
+    {
+        "id": "65",
+        "category": "Author's Insight",
+        "question": "Hiểu rõ hơn về ba phần não và vai trò của chúng giúp chúng ta làm gì?",
+        "correct_answer": "Tối ưu hóa khả năng của bản thân trong việc đối mặt với thử thách và phát triển",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Phân biệt giữa các chức năng sinh lý",
+            "Xác định các phản xạ tự động"
+        ]
+    },
+    {
+        "id": "66",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta học hỏi và xây dựng các mối quan hệ xã hội?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "67",
+        "category": "Author's Insight",
+        "question": "Hạch hạnh nhân trong hệ limbic giúp chúng ta làm gì?",
+        "correct_answer": "Nhận diện và phản ứng với các cảm xúc",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Lưu trữ ký ức dài hạn",
+            "Phân tích thông tin"
+        ]
+    },
+    {
+        "id": "68",
+        "category": "Author's Insight",
+        "question": "Khi bạn gặp lại một người bạn thân, phần nào của não giúp lưu trữ và hồi tưởng lại các ký ức về người bạn đó?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "69",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta suy nghĩ logic và giải quyết các vấn đề phức tạp?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ limbic",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "70",
+        "category": "Author's Insight",
+        "question": "Khi bạn chạm vào một vật nóng, phản xạ rụt tay lại là do phần nào của não điều khiển?",
+        "correct_answer": "Não bò sát",
+        "incorrect_answers": [
+            "Hệ limbic",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "71",
+        "category": "Author's Insight",
+        "question": "Phần nào của não chịu trách nhiệm cho các chức năng sinh lý cơ bản như thở, tuần hoàn máu và tiêu hóa?",
+        "correct_answer": "Não bò sát",
+        "incorrect_answers": [
+            "Hệ limbic",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "72",
+        "category": "Author's Insight",
+        "question": "Khi bạn cảm nhận niềm vui và xúc động khi gặp lại người thân, phần nào của não đang hoạt động?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "73",
+        "category": "Author's Insight",
+        "question": "Tư duy cao cấp và sáng tạo là chức năng của phần nào trong não?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ limbic",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "74",
+        "category": "Author's Insight",
+        "question": "Khi bạn lập kế hoạch cho một dự án, phần nào của não giúp bạn dự đoán các khó khăn và tìm ra cách giải quyết?",
+        "correct_answer": "Vỏ não (neocortex)",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Hệ limbic",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "75",
+        "category": "Author's Insight",
+        "question": "Neocortex giúp chúng ta phát triển các ý tưởng mới và đổi mới thông qua chức năng nào?",
+        "correct_answer": "Sáng tạo",
+        "incorrect_answers": [
+            "Suy nghĩ logic",
+            "Phân tích thông tin",
+            "Tư duy trừu tượng"
+        ]
+    },
+    {
+        "id": "76",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta xây dựng và duy trì các mối quan hệ xã hội?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "77",
+        "category": "Author's Insight",
+        "question": "Tư duy không chỉ là một khái niệm trừu tượng mà còn là gì?",
+        "correct_answer": "Một công cụ mạnh mẽ giúp đạt được những điều tuyệt vời",
+        "incorrect_answers": [
+            "Một thói quen",
+            "Một hành vi bản năng",
+            "Một phản xạ tự động"
+        ]
+    },
+    {
+        "id": "78",
+        "category": "Author's Insight",
+        "question": "Hiểu rõ hơn về ba phần não và vai trò của chúng giúp chúng ta làm gì?",
+        "correct_answer": "Tối ưu hóa khả năng của bản thân trong việc đối mặt với thử thách và phát triển",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Phân biệt giữa các chức năng sinh lý",
+            "Xác định các phản xạ tự động"
+        ]
+    },
+    {
+        "id": "79",
+        "category": "Author's Insight",
+        "question": "Phần nào của não giúp chúng ta học hỏi và xây dựng các mối quan hệ xã hội?",
+        "correct_answer": "Hệ limbic",
+        "incorrect_answers": [
+            "Não bò sát",
+            "Vỏ não (neocortex)",
+            "Thân não"
+        ]
+    },
+    {
+        "id": "80",
+        "category": "Author's Insight",
+        "question": "Hạch hạnh nhân trong hệ limbic giúp chúng ta làm gì?",
+        "correct_answer": "Nhận diện và phản ứng với các cảm xúc",
+        "incorrect_answers": [
+            "Điều chỉnh thân nhiệt",
+            "Lưu trữ ký ức dài hạn",
+            "Phân tích thông tin"
+        ]
     }
+    ,
+      {
+          "id": "81",
+          "category": "Author's Insight",
+          "question": "Khi bạn gặp lại một người bạn thân, phần nào của não giúp lưu trữ và hồi tưởng lại các ký ức về người bạn đó?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "82",
+          "category": "Author's Insight",
+          "question": "Phần nào của não giúp chúng ta suy nghĩ logic và giải quyết các vấn đề phức tạp?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "83",
+          "category": "Author's Insight",
+          "question": "Khi bạn chạm vào một vật nóng, phản xạ rụt tay lại là do phần nào của não điều khiển?",
+          "correct_answer": "Não bò sát",
+          "incorrect_answers": [
+              "Hệ limbic",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "84",
+          "category": "Author's Insight",
+          "question": "Phần nào của não chịu trách nhiệm cho các chức năng sinh lý cơ bản như thở, tuần hoàn máu và tiêu hóa?",
+          "correct_answer": "Não bò sát",
+          "incorrect_answers": [
+              "Hệ limbic",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "85",
+          "category": "Author's Insight",
+          "question": "Khi bạn cảm nhận niềm vui và xúc động khi gặp lại người thân, phần nào của não đang hoạt động?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "86",
+          "category": "Author's Insight",
+          "question": "Tư duy cao cấp và sáng tạo là chức năng của phần nào trong não?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "87",
+          "category": "Author's Insight",
+          "question": "Khi bạn lập kế hoạch cho một dự án, phần nào của não giúp bạn dự đoán các khó khăn và tìm ra cách giải quyết?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "88",
+          "category": "Author's Insight",
+          "question": "Neocortex giúp chúng ta phát triển các ý tưởng mới và đổi mới thông qua chức năng nào?",
+          "correct_answer": "Sáng tạo",
+          "incorrect_answers": [
+              "Suy nghĩ logic",
+              "Phân tích thông tin",
+              "Tư duy trừu tượng"
+          ]
+      },
+      {
+          "id": "89",
+          "category": "Author's Insight",
+          "question": "Phần nào của não giúp chúng ta xây dựng và duy trì các mối quan hệ xã hội?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "90",
+          "category": "Author's Insight",
+          "question": "Hạch hạnh nhân trong hệ limbic giúp chúng ta làm gì?",
+          "correct_answer": "Nhận diện và phản ứng với các cảm xúc",
+          "incorrect_answers": [
+              "Điều chỉnh thân nhiệt",
+              "Lưu trữ ký ức dài hạn",
+              "Phân tích thông tin"
+          ]
+      },
+      {
+          "id": "91",
+          "category": "Author's Insight",
+          "question": "Khi bạn gặp lại một người bạn thân, phần nào của não giúp lưu trữ và hồi tưởng lại các ký ức về người bạn đó?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "92",
+          "category": "Author's Insight",
+          "question": "Phần nào của não giúp chúng ta suy nghĩ logic và giải quyết các vấn đề phức tạp?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "93",
+          "category": "Author's Insight",
+          "question": "Khi bạn chạm vào một vật nóng, phản xạ rụt tay lại là do phần nào của não điều khiển?",
+          "correct_answer": "Não bò sát",
+          "incorrect_answers": [
+              "Hệ limbic",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "94",
+          "category": "Author's Insight",
+          "question": "Phần nào của não chịu trách nhiệm cho các chức năng sinh lý cơ bản như thở, tuần hoàn máu và tiêu hóa?",
+          "correct_answer": "Não bò sát",
+          "incorrect_answers": [
+              "Hệ limbic",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "95",
+          "category": "Author's Insight",
+          "question": "Khi bạn cảm nhận niềm vui và xúc động khi gặp lại người thân, phần nào của não đang hoạt động?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "96",
+          "category": "Author's Insight",
+          "question": "Tư duy cao cấp và sáng tạo là chức năng của phần nào trong não?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "97",
+          "category": "Author's Insight",
+          "question": "Khi bạn lập kế hoạch cho một dự án, phần nào của não giúp bạn dự đoán các khó khăn và tìm ra cách giải quyết?",
+          "correct_answer": "Vỏ não (neocortex)",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Hệ limbic",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "98",
+          "category": "Author's Insight",
+          "question": "Neocortex giúp chúng ta phát triển các ý tưởng mới và đổi mới thông qua chức năng nào?",
+          "correct_answer": "Sáng tạo",
+          "incorrect_answers": [
+              "Suy nghĩ logic",
+              "Phân tích thông tin",
+              "Tư duy trừu tượng"
+          ]
+      },
+      {
+          "id": "99",
+          "category": "Author's Insight",
+          "question": "Phần nào của não giúp chúng ta xây dựng và duy trì các mối quan hệ xã hội?",
+          "correct_answer": "Hệ limbic",
+          "incorrect_answers": [
+              "Não bò sát",
+              "Vỏ não (neocortex)",
+              "Thân não"
+          ]
+      },
+      {
+          "id": "100",
+          "category": "Author's Insight",
+          "question": "Hạch hạnh nhân trong hệ limbic giúp chúng ta làm gì?",
+          "correct_answer": "Nhận diện và phản ứng với các cảm xúc",
+          "incorrect_answers": [
+              "Điều chỉnh thân nhiệt",
+              "Lưu trữ ký ức dài hạn",
+              "Phân tích thông tin"
+          ]
+      },
+      {
+          "id": "101",
+          "category": "Author's Insight",
+          "question": "Mối quan hệ biện chứng là gì?",
+          "correct_answer": "Mối quan hệ mà hai yếu tố tác động qua lại, ảnh hưởng và phát triển lẫn nhau",
+          "incorrect_answers": [
+              "Mối quan hệ đơn giản",
+              "Mối quan hệ một chiều",
+              "Mối quan hệ không liên quan"
+          ]
+      },
+      {
+          "id": "102",
+          "category": "Author's Insight",
+          "question": "Cấu trúc của não bao gồm các yếu tố nào?",
+          "correct_answer": "Các neuron, các khớp thần kinh và các vùng chức năng",
+          "incorrect_answers": [
+              "Các cơ bắp và xương",
+              "Hệ tiêu hóa",
+              "Hệ tuần hoàn"
+          ]
+      },
+      {
+          "id": "103",
+          "category": "Author's Insight",
+          "question": "Chức năng của tư duy bao gồm các hoạt động nào?",
+          "correct_answer": "Suy nghĩ, phân tích, cảm xúc và quyết định",
+          "incorrect_answers": [
+              "Hô hấp và tiêu hóa",
+              "Vận động và cảm giác",
+              "Ngủ và nghỉ ngơi"
+          ]
+      },
+      {
+          "id": "104",
+          "category": "Author's Insight",
+          "question": "Neuroplasticity là gì?",
+          "correct_answer": "Sự thay đổi của các kết nối neuron khi học tập và trải nghiệm",
+          "incorrect_answers": [
+              "Sự phát triển của các cơ bắp",
+              "Sự thay đổi của các tế bào máu",
+              "Sự thay đổi của hệ tiêu hóa"
+          ]
+      },
+      {
+          "id": "105",
+          "category": "Author's Insight",
+          "question": "Ví dụ nào sau đây minh họa cho 'mâu thuẫn và phát triển' trong quá trình tư duy?",
+          "correct_answer": "Chọn giữa công việc an toàn và đam mê",
+          "incorrect_answers": [
+              "Ăn trưa và ăn tối",
+              "Chạy bộ và đi xe đạp",
+              "Ngủ và nghỉ ngơi"
+          ]
+      },
+      {
+          "id": "106",
+          "category": "Author's Insight",
+          "question": "'Lượng đổi, chất đổi' trong tư duy có nghĩa là gì?",
+          "correct_answer": "Học tập và trải nghiệm liên tục làm tăng cường kết nối giữa các neuron",
+          "incorrect_answers": [
+              "Giảm thiểu các hoạt động tư duy",
+              "Tăng cường chức năng tiêu hóa",
+              "Giảm thiểu chức năng của hệ tuần hoàn"
+          ]
+      },
+      {
+          "id": "107",
+          "category": "Author's Insight",
+          "question": "'Phủ định của phủ định' trong quá trình tư duy có nghĩa là gì?",
+          "correct_answer": "Mỗi giai đoạn mới kế thừa và phát triển những yếu tố tích cực của giai đoạn trước",
+          "incorrect_answers": [
+              "Loại bỏ hoàn toàn những yếu tố cũ",
+              "Không có sự phát triển nào",
+              "Quay lại giai đoạn đầu tiên"
+          ]
+      },
+      {
+          "id": "108",
+          "category": "Author's Insight",
+          "question": "Tinh thần (Mental) bao gồm các quá trình nào?",
+          "correct_answer": "Suy nghĩ, cảm xúc, ý thức và ký ức",
+          "incorrect_answers": [
+              "Hô hấp và tiêu hóa",
+              "Vận động và cảm giác",
+              "Ngủ và nghỉ ngơi"
+          ]
+      },
+      {
+          "id": "109",
+          "category": "Author's Insight",
+          "question": "Tri giác (Perception) là gì?",
+          "correct_answer": "Cách chúng ta thu nhận và hiểu thông tin từ các giác quan",
+          "incorrect_answers": [
+              "Quá trình hô hấp",
+              "Quá trình tiêu hóa",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "110",
+          "category": "Author's Insight",
+          "question": "Nhận thức (Cognition) là gì?",
+          "correct_answer": "Cách chúng ta suy nghĩ, ghi nhớ, giải quyết vấn đề và ra quyết định",
+          "incorrect_answers": [
+              "Quá trình tiêu hóa",
+              "Quá trình hô hấp",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "111",
+          "category": "Author's Insight",
+          "question": "Mối quan hệ giữa tri giác và nhận thức là gì?",
+          "correct_answer": "Tri giác là bước đầu tiên trong quá trình nhận thức",
+          "incorrect_answers": [
+              "Nhận thức không liên quan đến tri giác",
+              "Tri giác và nhận thức là hai quá trình độc lập",
+              "Tri giác chỉ xảy ra sau nhận thức"
+          ]
+      },
+      {
+          "id": "112",
+          "category": "Author's Insight",
+          "question": "Tri giác và nhận thức tương tác lẫn nhau như thế nào?",
+          "correct_answer": "Tri giác cung cấp dữ liệu thô, nhận thức ảnh hưởng đến cách chúng ta tri giác thông tin",
+          "incorrect_answers": [
+              "Nhận thức không ảnh hưởng đến tri giác",
+              "Tri giác không ảnh hưởng đến nhận thức",
+              "Tri giác và nhận thức không có mối quan hệ"
+          ]
+      },
+      {
+          "id": "113",
+          "category": "Author's Insight",
+          "question": "Nhận thức là gì?",
+          "correct_answer": "Quá trình mà não bộ thu thập, tổ chức và diễn giải thông tin từ các giác quan và kinh nghiệm",
+          "incorrect_answers": [
+              "Quá trình hô hấp",
+              "Quá trình tiêu hóa",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "114",
+          "category": "Author's Insight",
+          "question": "Tư duy là gì?",
+          "correct_answer": "Quá trình não bộ sử dụng thông tin đã nhận thức để phân tích, tổng hợp, suy luận, tưởng tượng và đưa ra các giải pháp hoặc kết luận",
+          "incorrect_answers": [
+              "Quá trình hô hấp",
+              "Quá trình tiêu hóa",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "115",
+          "category": "Author's Insight",
+          "question": "Mối quan hệ giữa nhận thức và tư duy là gì?",
+          "correct_answer": "Nhận thức cung cấp thông tin cho tư duy",
+          "incorrect_answers": [
+              "Tư duy không ảnh hưởng đến nhận thức",
+              "Nhận thức và tư duy là hai quá trình độc lập",
+              "Nhận thức xảy ra sau tư duy"
+          ]
+      },
+      {
+          "id": "116",
+          "category": "Author's Insight",
+          "question": "Nhận thức và tư duy tương hỗ như thế nào?",
+          "correct_answer": "Nhận thức là nền tảng của tư duy, tư duy giúp cải thiện nhận thức",
+          "incorrect_answers": [
+              "Nhận thức không ảnh hưởng đến tư duy",
+              "Tư duy không ảnh hưởng đến nhận thức",
+              "Nhận thức và tư duy không có mối quan hệ"
+          ]
+      },
+      {
+          "id": "117",
+          "category": "Author's Insight",
+          "question": "Tư duy (Thinking) là gì?",
+          "correct_answer": "Quá trình mà não bộ sử dụng thông tin để phân tích, suy luận, tưởng tượng và đưa ra kết luận",
+          "incorrect_answers": [
+              "Quá trình hô hấp",
+              "Quá trình tiêu hóa",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "118",
+          "category": "Author's Insight",
+          "question": "Tri thức (Knowledge) là gì?",
+          "correct_answer": "Sự hiểu biết và thông tin được tích lũy qua kinh nghiệm, học tập và giao tiếp",
+          "incorrect_answers": [
+              "Quá trình hô hấp",
+              "Quá trình tiêu hóa",
+              "Quá trình ngủ"
+          ]
+      },
+      {
+          "id": "119",
+          "category": "Author's Insight",
+          "question": "Tư duy là công cụ để làm gì?",
+          "correct_answer": "Đạt được tri thức",
+          "incorrect_answers": [
+              "Hô hấp",
+              "Tiêu hóa",
+              "Ngủ"
+          ]
+      },
+      {
+          "id": "120",
+          "category": "Author's Insight",
+          "question": "Tri thức củng cố và mở rộng điều gì?",
+          "correct_answer": "Tư duy",
+          "incorrect_answers": [
+              "Hô hấp",
+              "Tiêu hóa",
+              "Ngủ"
+          ]
+      },
+        {
+            "id": "121",
+            "category": "Author's Insight",
+            "question": "Sự thấu cảm trong tri thức là gì?",
+            "correct_answer": "Hiểu biết và cảm nhận",
+            "incorrect_answers": [
+                "Quá trình hô hấp",
+                "Quá trình tiêu hóa",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "122",
+            "category": "Author's Insight",
+            "question": "Sự đồng thuận của xã hội trong tri thức là gì?",
+            "correct_answer": "Xác thực và công nhận",
+            "incorrect_answers": [
+                "Quá trình hô hấp",
+                "Quá trình tiêu hóa",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "123",
+            "category": "Author's Insight",
+            "question": "Ví dụ nào sau đây minh họa cho việc tri thức cần được xã hội xác thực và công nhận?",
+            "correct_answer": "Lý thuyết về thuyết tương đối của Albert Einstein",
+            "incorrect_answers": [
+                "Quá trình hô hấp",
+                "Quá trình tiêu hóa",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "124",
+            "category": "Author's Insight",
+            "question": "Tư duy sáng tạo và phản biện giúp làm gì?",
+            "correct_answer": "Khám phá và phát triển những ý tưởng mới",
+            "incorrect_answers": [
+                "Quá trình hô hấp",
+                "Quá trình tiêu hóa",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "125",
+            "category": "Author's Insight",
+            "question": "Tầm quan trọng của mối quan hệ giữa tư duy và tri thức là gì?",
+            "correct_answer": "Cải thiện chất lượng cuộc sống",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "126",
+            "category": "Author's Insight",
+            "question": "Mối quan hệ giữa tư duy và tri thức giúp gì cho xã hội?",
+            "correct_answer": "Thúc đẩy sự tiến bộ xã hội",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "127",
+            "category": "Author's Insight",
+            "question": "Tư duy giúp cải thiện điều gì?",
+            "correct_answer": "Nhận thức",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "128",
+            "category": "Author's Insight",
+            "question": "Nhận thức và tư duy giúp phát triển điều gì?",
+            "correct_answer": "Tri thức",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "129",
+            "category": "Author's Insight",
+            "question": "Tư duy sáng tạo giúp tạo ra điều gì?",
+            "correct_answer": "Ý tưởng mới",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "130",
+            "category": "Author's Insight",
+            "question": "Tri thức giúp gì cho tư duy?",
+            "correct_answer": "Củng cố và mở rộng",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "131",
+            "category": "Author's Insight",
+            "question": "Nhận thức giúp chúng ta làm gì với thông tin?",
+            "correct_answer": "Thu thập, tổ chức và diễn giải",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "132",
+            "category": "Author's Insight",
+            "question": "Tư duy giúp chúng ta làm gì với thông tin?",
+            "correct_answer": "Phân tích, suy luận và đưa ra kết luận",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "133",
+            "category": "Author's Insight",
+            "question": "Ví dụ nào sau đây minh họa cho mối quan hệ giữa tri giác và nhận thức?",
+            "correct_answer": "Nhìn thấy và nhận ra một con chó",
+            "incorrect_answers": [
+                "Quá trình hô hấp",
+                "Quá trình tiêu hóa",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "134",
+            "category": "Author's Insight",
+            "question": "Sự thấu cảm giúp chúng ta làm gì với tri thức?",
+            "correct_answer": "Áp dụng một cách nhạy bén và hiệu quả",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "135",
+            "category": "Author's Insight",
+            "question": "Tri giác cung cấp gì cho nhận thức?",
+            "correct_answer": "Dữ liệu thô",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "136",
+            "category": "Author's Insight",
+            "question": "Nhận thức giúp làm gì với dữ liệu từ tri giác?",
+            "correct_answer": "Xử lý và hiểu",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "137",
+            "category": "Author's Insight",
+            "question": "Ví dụ nào minh họa cho mối quan hệ giữa nhận thức và tư duy?",
+            "correct_answer": "Học một ngôn ngữ mới",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "138",
+            "category": "Author's Insight",
+            "question": "Nhận thức cung cấp thông tin gì cho tư duy?",
+            "correct_answer": "Dữ liệu cần thiết để phân tích và suy luận",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "139",
+            "category": "Author's Insight",
+            "question": "Tư duy giúp làm gì với nhận thức?",
+            "correct_answer": "Cải thiện và mở rộng",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "140",
+            "category": "Author's Insight",
+            "question": "Tầm quan trọng của mối quan hệ giữa tư duy và tri thức đối với cá nhân và xã hội là gì?",
+            "correct_answer": "Giải quyết vấn đề, phát triển kinh tế và xây dựng cộng đồng",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "141",
+            "category": "Author's Insight",
+            "question": "Não bộ hoạt động thông qua các quá trình nào?",
+            "correct_answer": "Sinh học và hóa học",
+            "incorrect_answers": [
+                "Cơ học và điện tử",
+                "Quang học và nhiệt học",
+                "Cơ khí và nhiệt điện"
+            ]
+        },
+        {
+            "id": "142",
+            "category": "Author's Insight",
+            "question": "Các neuron trong não truyền tín hiệu cho nhau qua đâu?",
+            "correct_answer": "Các khớp thần kinh",
+            "incorrect_answers": [
+                "Hệ thống tuần hoàn",
+                "Hệ thống tiêu hóa",
+                "Các mạch máu"
+            ]
+        },
+        {
+            "id": "143",
+            "category": "Author's Insight",
+            "question": "Chất dẫn truyền thần kinh nào liên quan đến cảm giác hạnh phúc và động lực?",
+            "correct_answer": "Dopamine",
+            "incorrect_answers": [
+                "Serotonin",
+                "GABA",
+                "Acetylcholine"
+            ]
+        },
+        {
+            "id": "144",
+            "category": "Author's Insight",
+            "question": "Chất dẫn truyền thần kinh nào giúp điều chỉnh tâm trạng?",
+            "correct_answer": "Serotonin",
+            "incorrect_answers": [
+                "Dopamine",
+                "GABA",
+                "Acetylcholine"
+            ]
+        },
+        {
+            "id": "145",
+            "category": "Author's Insight",
+            "question": "Phần não nào chịu trách nhiệm cho các phản xạ tự động như rút tay lại khi chạm vào vật nóng?",
+            "correct_answer": "Não bò sát",
+            "incorrect_answers": [
+                "Neocortex",
+                "Hệ limbic",
+                "Thân não"
+            ]
+        },
+        {
+            "id": "146",
+            "category": "Author's Insight",
+            "question": "Hệ limbic chịu trách nhiệm cho việc gì?",
+            "correct_answer": "Xử lý cảm xúc và ký ức",
+            "incorrect_answers": [
+                "Phân tích logic",
+                "Kiểm soát hành vi",
+                "Điều hòa thân nhiệt"
+            ]
+        },
+        {
+            "id": "147",
+            "category": "Author's Insight",
+            "question": "Neocortex chịu trách nhiệm cho các chức năng tư duy cao cấp nào?",
+            "correct_answer": "Phân tích, lập kế hoạch và sáng tạo",
+            "incorrect_answers": [
+                "Phản xạ tự động",
+                "Xử lý cảm xúc",
+                "Điều hòa thân nhiệt"
+            ]
+        },
+        {
+            "id": "148",
+            "category": "Author's Insight",
+            "question": "Hiện tượng 'neuroplasticity' là gì?",
+            "correct_answer": "Sự thay đổi của các kết nối neuron khi học tập và trải nghiệm",
+            "incorrect_answers": [
+                "Sự phân hủy của các tế bào não",
+                "Sự lão hóa của não",
+                "Sự sản xuất chất dẫn truyền thần kinh"
+            ]
+        },
+        {
+            "id": "149",
+            "category": "Author's Insight",
+            "question": "Tư duy là gì?",
+            "correct_answer": "Quá trình sử dụng logic, lập luận, phân tích và sáng tạo để hiểu, đánh giá và tạo ra thông tin",
+            "incorrect_answers": [
+                "Quá trình tiêu hóa",
+                "Quá trình hô hấp",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "150",
+            "category": "Author's Insight",
+            "question": "Quyết định là gì?",
+            "correct_answer": "Quá trình chọn lựa một phương án hành động từ nhiều lựa chọn có sẵn",
+            "incorrect_answers": [
+                "Quá trình tiêu hóa",
+                "Quá trình hô hấp",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "151",
+            "category": "Author's Insight",
+            "question": "Tư duy là cơ sở cho việc gì?",
+            "correct_answer": "Ra quyết định",
+            "incorrect_answers": [
+                "Hô hấp",
+                "Tiêu hóa",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "152",
+            "category": "Author's Insight",
+            "question": "Quyết định là kết quả cuối cùng của quá trình gì?",
+            "correct_answer": "Tư duy",
+            "incorrect_answers": [
+                "Tiêu hóa",
+                "Hô hấp",
+                "Ngủ"
+            ]
+        },
+        {
+            "id": "153",
+            "category": "Author's Insight",
+            "question": "Tư duy và quyết định có mối quan hệ như thế nào?",
+            "correct_answer": "Tương tác hai chiều",
+            "incorrect_answers": [
+                "Không liên quan",
+                "Chỉ tương tác một chiều",
+                "Hoàn toàn độc lập"
+            ]
+        },
+        {
+            "id": "154",
+            "category": "Author's Insight",
+            "question": "Quá trình quyết định bao gồm những bước nào?",
+            "correct_answer": "Chọn lựa, đánh giá các hậu quả và lợi ích, thực hiện phương án đã chọn",
+            "incorrect_answers": [
+                "Tiêu hóa, hấp thụ và bài tiết",
+                "Hô hấp, trao đổi khí và tuần hoàn máu",
+                "Ngủ, nghỉ ngơi và thư giãn"
+            ]
+        },
+        {
+            "id": "155",
+            "category": "Author's Insight",
+            "question": "Quyết định là gì?",
+            "correct_answer": "Quá trình chọn lựa một phương án hành động từ nhiều lựa chọn có sẵn",
+            "incorrect_answers": [
+                "Quá trình tiêu hóa",
+                "Quá trình hô hấp",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "156",
+            "category": "Author's Insight",
+            "question": "Hành động là gì?",
+            "correct_answer": "Bước triển khai thực hiện các quyết định đã được chọn lựa",
+            "incorrect_answers": [
+                "Quá trình tiêu hóa",
+                "Quá trình hô hấp",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+            "id": "157",
+            "category": "Author's Insight",
+            "question": "Quyết định cung cấp điều gì cho hành động?",
+            "correct_answer": "Định hướng và xác định các bước cụ thể cần thực hiện",
+            "incorrect_answers": [
+                "Dinh dưỡng",
+                "Oxy",
+                "Năng lượng"
+            ]
+        },
+        {
+            "id": "158",
+            "category": "Author's Insight",
+            "question": "Hành động là quá trình biến quyết định thành gì?",
+            "correct_answer": "Hiện thực",
+            "incorrect_answers": [
+                "Giấc mơ",
+                "Kế hoạch",
+                "Ý tưởng"
+            ]
+        },
+        {
+            "id": "159",
+            "category": "Author's Insight",
+            "question": "Kết quả của hành động cung cấp gì cho quá trình ra quyết định?",
+            "correct_answer": "Phản hồi",
+            "incorrect_answers": [
+                "Dinh dưỡng",
+                "Oxy",
+                "Năng lượng"
+            ]
+        },
+        {
+            "id": "160",
+            "category": "Author's Insight",
+            "question": "Ví dụ nào minh họa cho mối quan hệ giữa quyết định và hành động?",
+            "correct_answer": "Quyết định học chơi đàn piano và hành động tham gia lớp học, luyện tập hàng ngày",
+            "incorrect_answers": [
+                "Quá trình tiêu hóa thức ăn",
+                "Quá trình hô hấp",
+                "Quá trình ngủ"
+            ]
+        },
+        {
+          "id": "161",
+          "category": "Author's Insight",
+          "question": "Phát triển kỹ năng tư duy giúp cải thiện điều gì?",
+          "correct_answer": "Chất lượng quyết định",
+          "incorrect_answers": [
+              "Tiêu hóa",
+              "Hô hấp",
+              "Ngủ"
+          ]
+      },
+      {
+          "id": "162",
+          "category": "Author's Insight",
+          "question": "Tư duy không chỉ là sản phẩm của các quá trình điện hóa trong não mà còn bao gồm yếu tố gì?",
+          "correct_answer": "Tinh thần như cảm xúc, ý thức và tiềm thức",
+          "incorrect_answers": [
+              "Dinh dưỡng",
+              "Oxy",
+              "Năng lượng"
+          ]
+      },
+      {
+          "id": "163",
+          "category": "Author's Insight",
+          "question": "Hiểu rõ mối quan hệ giữa các thành tố của não và tư duy giúp chúng ta làm gì?",
+          "correct_answer": "Nhận thức được tầm quan trọng của việc duy trì cân bằng giữa sức khỏe tinh thần và vật chất",
+          "incorrect_answers": [
+              "Tiêu hóa tốt hơn",
+              "Hô hấp hiệu quả hơn",
+              "Ngủ sâu hơn"
+          ]
+      },
+      {
+          "id": "164",
+          "category": "Author's Insight",
+          "question": "Mối quan hệ giữa tư duy và hành động là gì?",
+          "correct_answer": "Tư duy dẫn đến quyết định và quyết định dẫn đến hành động",
+          "incorrect_answers": [
+              "Không liên quan",
+              "Chỉ tương tác một chiều",
+              "Hoàn toàn độc lập"
+          ]
+      },
+      {
+          "id": "165",
+          "category": "Author's Insight",
+          "question": "Mối quan hệ giữa quyết định và hành động giúp chúng ta làm gì?",
+          "correct_answer": "Tối ưu hóa hiệu quả công việc, cải thiện khả năng quản lý thời gian và nguồn lực",
+          "incorrect_answers": [
+              "Tiêu hóa tốt hơn",
+              "Hô hấp hiệu quả hơn",
+              "Ngủ sâu hơn"
+          ]
+      },
+      {
+          "id": "166",
+          "category": "Author's Insight",
+          "question": "Thời đại thứ tư của cuộc Cách mạng Công nghiệp 4.0 là thời đại gì?",
+          "correct_answer": "Thời đại kỹ thuật số",
+          "incorrect_answers": [
+              "Thời đại công nghiệp",
+              "Thời đại công nghệ sinh học",
+              "Thời đại công nghệ thông tin"
+          ]
+      },
+      {
+          "id": "167",
+          "category": "Author's Insight",
+          "question": "Ba vấn đề lớn mà nhân loại phải đối mặt trong thời đại thứ tư là gì?",
+          "correct_answer": "Đói, nghèo, bệnh tật",
+          "incorrect_answers": [
+              "Đói, nghèo, ô nhiễm",
+              "Đói, thất nghiệp, giáo dục",
+              "Đói, nghèo, an ninh"
+          ]
+      },
+      {
+          "id": "168",
+          "category": "Author's Insight",
+          "question": "Đói là gì?",
+          "correct_answer": "Trạng thái sinh lý khi cơ thể thiếu năng lượng và chất dinh dưỡng cần thiết",
+          "incorrect_answers": [
+              "Trạng thái tâm lý khi cơ thể thiếu năng lượng",
+              "Trạng thái kinh tế khi không có đủ tiền mua thức ăn",
+              "Trạng thái xã hội khi không có việc làm"
+          ]
+      },
+      {
+          "id": "169",
+          "category": "Author's Insight",
+          "question": "Một trong những nguyên nhân chính gây ra tình trạng đói trên thế giới là gì?",
+          "correct_answer": "Mô hình canh tác không hiệu quả",
+          "incorrect_answers": [
+              "Thiếu nước uống",
+              "Thiếu giáo dục",
+              "Thiếu y tế"
+          ]
+      },
+      {
+          "id": "170",
+          "category": "Author's Insight",
+          "question": "Tại sao việc áp dụng công nghệ hiện đại vào canh tác vẫn còn hạn chế ở nhiều nơi?",
+          "correct_answer": "Thiếu tiếp cận với máy móc nông nghiệp",
+          "incorrect_answers": [
+              "Thiếu nước tưới tiêu",
+              "Thiếu giống cây trồng",
+              "Thiếu đất canh tác"
+          ]
+      },
+      {
+          "id": "171",
+          "category": "Author's Insight",
+          "question": "Công nghệ thu hoạch chưa được tối ưu dẫn đến điều gì?",
+          "correct_answer": "Tăng tỷ lệ mất mát sau thu hoạch",
+          "incorrect_answers": [
+              "Tăng năng suất lao động",
+              "Giảm chi phí sản xuất",
+              "Tăng chất lượng sản phẩm"
+          ]
+      },
+      {
+          "id": "172",
+          "category": "Author's Insight",
+          "question": "Việc chế biến nguyên liệu không hợp lý ảnh hưởng đến điều gì?",
+          "correct_answer": "Giảm giá trị dinh dưỡng và chất lượng của sản phẩm",
+          "incorrect_answers": [
+              "Tăng giá trị dinh dưỡng của sản phẩm",
+              "Tăng hiệu quả sản xuất",
+              "Giảm lãng phí nguyên liệu"
+          ]
+      },
+      {
+          "id": "173",
+          "category": "Author's Insight",
+          "question": "Một trong những giải pháp quan trọng để giảm thiểu lãng phí thực phẩm là gì?",
+          "correct_answer": "Áp dụng công nghệ bảo quản tiên tiến",
+          "incorrect_answers": [
+              "Tăng diện tích đất canh tác",
+              "Giảm sử dụng phân bón",
+              "Tăng số lượng lao động nông nghiệp"
+          ]
+      },
+      {
+          "id": "174",
+          "category": "Author's Insight",
+          "question": "Công nghệ đông lạnh giúp bảo quản thực phẩm bằng cách nào?",
+          "correct_answer": "Giữ cho thực phẩm tươi lâu hơn mà không mất đi giá trị dinh dưỡng",
+          "incorrect_answers": [
+              "Sử dụng vi sinh vật để lên men",
+              "Điều chỉnh khí quyển trong kho lạnh",
+              "Đóng gói thực phẩm trong hộp kín"
+          ]
+      },
+      {
+          "id": "175",
+          "category": "Author's Insight",
+          "question": "Lên men là gì?",
+          "correct_answer": "Sử dụng vi sinh vật để biến đổi thực phẩm",
+          "incorrect_answers": [
+              "Sử dụng tia X để tiêu diệt vi khuẩn",
+              "Sử dụng khí điều chỉnh để bảo quản thực phẩm",
+              "Sử dụng công nghệ sấy khô để loại bỏ nước trong thực phẩm"
+          ]
+      },
+      {
+          "id": "176",
+          "category": "Author's Insight",
+          "question": "Một trong những giải pháp để tăng năng suất nông nghiệp là gì?",
+          "correct_answer": "Sử dụng công nghệ sinh học để cải thiện giống cây trồng",
+          "incorrect_answers": [
+              "Tăng số lượng lao động nông nghiệp",
+              "Giảm sử dụng phân bón",
+              "Giảm diện tích đất canh tác"
+          ]
+      },
+      {
+          "id": "177",
+          "category": "Author's Insight",
+          "question": "Canh tác thông minh sử dụng công nghệ nào để tối ưu hóa quy trình canh tác?",
+          "correct_answer": "Internet of Things (IoT), trí tuệ nhân tạo (AI) và dữ liệu lớn (Big Data)",
+          "incorrect_answers": [
+              "Máy bay không người lái (drone) và hình ảnh vệ tinh",
+              "Phân bón hữu cơ và hệ thống tưới tiêu tự động",
+              "Công nghệ sinh học và giống cây trồng cải tiến"
+          ]
+      },
+      {
+          "id": "178",
+          "category": "Author's Insight",
+          "question": "Thực phẩm thay thế như thịt nhân tạo được sản xuất từ gì?",
+          "correct_answer": "Tế bào động vật trong phòng thí nghiệm",
+          "incorrect_answers": [
+              "Côn trùng",
+              "Tảo biển",
+              "Ngũ cốc biến đổi gen"
+          ]
+      },
+      {
+          "id": "179",
+          "category": "Author's Insight",
+          "question": "Protein từ côn trùng là một giải pháp thay thế thực phẩm như thế nào?",
+          "correct_answer": "Nguồn protein dồi dào và bền vững",
+          "incorrect_answers": [
+              "Nguồn protein tạm thời",
+              "Nguồn protein ít dinh dưỡng",
+              "Nguồn protein không bền vững"
+          ]
+      },
+      {
+          "id": "180",
+          "category": "Author's Insight",
+          "question": "Để giải quyết tình trạng đói, cần có tư duy như thế nào?",
+          "correct_answer": "Tư duy mở, nhìn nhận vấn đề từ nhiều góc độ khác nhau và sẵn sàng thử nghiệm những giải pháp mới và sáng tạo",
+          "incorrect_answers": [
+              "Tư duy bảo thủ, giữ nguyên các phương pháp truyền thống",
+              "Tư duy thụ động, chờ đợi sự thay đổi từ bên ngoài",
+              "Tư duy ngắn hạn, chỉ tập trung vào lợi ích tức thì"
+          ]
+      },
+      {
+          "id": "181",
+          "category": "Author's Insight",
+          "question": "Một ví dụ cụ thể cho việc tận dụng tối đa lương thực là gì?",
+          "correct_answer": "Chế biến toàn bộ cá rô phi thành sản phẩm như 'Cá kho trọn vị'",
+          "incorrect_answers": [
+              "Tăng số lượng lao động nông nghiệp",
+              "Giảm sử dụng phân bón",
+              "Tăng diện tích đất canh tác"
+          ]
+      },
+      {
+          "id": "182",
+          "category": "Author's Insight",
+          "question": "Công nghệ bảo quản hiện đại như kho lạnh và bảo quản bằng khí điều chỉnh giúp gì?",
+          "correct_answer": "Kéo dài thời gian sử dụng của lương thực",
+          "incorrect_answers": [
+              "Giảm chi phí sản xuất",
+              "Tăng số lượng lao động nông nghiệp",
+              "Giảm diện tích đất canh tác"
+          ]
+      },
+      {
+          "id": "183",
+          "category": "Author's Insight",
+          "question": "Một trong những thách thức chính cần giải quyết để áp dụng các công nghệ bảo quản là gì?",
+          "correct_answer": "Chi phí cao và thiếu hạ tầng kỹ thuật",
+          "incorrect_answers": [
+              "Thiếu nước tưới tiêu",
+              "Thiếu lao động nông nghiệp",
+              "Thiếu giống cây trồng"
+          ]
+      },
+      {
+          "id": "184",
+          "category": "Author's Insight",
+          "question": "Đói là một vấn đề thuộc phạm trù gì?",
+          "correct_answer": "Kỹ thuật",
+          "incorrect_answers": [
+              "Kinh tế",
+              "Xã hội",
+              "Chính trị"
+          ]
+      },
+      {
+          "id": "185",
+          "category": "Author's Insight",
+          "question": "Với đà tiến bộ của công nghệ, chúng ta có thể làm gì với tình trạng đói?",
+          "correct_answer": "Giải quyết hoàn toàn",
+          "incorrect_answers": [
+              "Giảm thiểu nhưng không thể giải quyết hoàn toàn",
+              "Không thể làm gì",
+              "Chờ đợi sự thay đổi từ bên ngoài"
+          ]
+      },
+      {
+          "id": "186",
+          "category": "Author's Insight",
+          "question": "Nghèo là gì?",
+          "correct_answer": "Trạng thái khi một cá nhân hoặc gia đình không có thu nhập hoặc có thu nhập thấp",
+          "incorrect_answers": [
+              "Trạng thái khi một cá nhân hoặc gia đình không có đủ nước uống",
+              "Trạng thái khi một cá nhân hoặc gia đình không có nhà ở",
+              "Trạng thái khi một cá nhân hoặc gia đình không có việc làm"
+          ]
+      },
+      {
+          "id": "187",
+          "category": "Author's Insight",
+          "question": "Nguyên nhân của nghèo có thể do yếu tố nào?",
+          "correct_answer": "Trình độ học vấn thấp và tình hình kinh tế kém phát triển",
+          "incorrect_answers": [
+              "Chỉ do trình độ học vấn thấp",
+              "Chỉ do tình hình kinh tế kém phát triển",
+              "Thiếu nước uống"
+          ]
+      },
+      {
+          "id": "188",
+          "category": "Author's Insight",
+          "question": "Công nghệ có thể mang lại thay đổi gì trong việc giảm nghèo?",
+          "correct_answer": "Cải thiện thu nhập và giảm nghèo",
+          "incorrect_answers": [
+              "Giảm năng suất lao động",
+              "Tăng giá cả hàng hóa",
+              "Giảm chất lượng cuộc sống"
+          ]
+      },
+      {
+          "id": "189",
+          "category": "Author's Insight",
+          "question": "Khi AI và công nghệ tự động hóa tiến bộ, điều gì có thể xảy ra với các công việc truyền thống?",
+          "correct_answer": "Các công việc truyền thống có thể bị thay thế",
+          "incorrect_answers": [
+              "Không có thay đổi gì",
+              "Số lượng công việc truyền thống sẽ tăng lên",
+              "Các công việc truyền thống sẽ không bị ảnh hưởng"
+          ]
+      },
+      {
+          "id": "190",
+          "category": "Author's Insight",
+          "question": "Việc phân phối lại của cải sẽ như thế nào với sự tiến bộ của công nghệ?",
+          "correct_answer": "Dễ dàng hơn",
+          "incorrect_answers": [
+              "Khó khăn hơn",
+              "Không thay đổi",
+              "Không thể thực hiện"
+          ]
+      },
+      {
+          "id": "191",
+          "category": "Author's Insight",
+          "question": "Khi cung lớn dẫn đến giá giảm, điều gì sẽ xảy ra với sức mua?",
+          "correct_answer": "Sức mua sẽ tăng lên",
+          "incorrect_answers": [
+              "Sức mua sẽ giảm",
+              "Sức mua sẽ không thay đổi",
+              "Sức mua sẽ không liên quan"
+          ]
+      },
+      {
+          "id": "192",
+          "category": "Author's Insight",
+          "question": "Tăng năng suất lao động có thể đạt được bằng cách nào?",
+          "correct_answer": "Sử dụng AI và các công nghệ tự động hóa",
+          "incorrect_answers": [
+              "Sử dụng lao động thủ công",
+              "Giảm sử dụng máy móc",
+              "Giảm sử dụng công nghệ"
+          ]
+      },
+      {
+          "id": "193",
+          "category": "Author's Insight",
+          "question": "Công nghệ nào có thể giúp cải thiện năng suất nông nghiệp?",
+          "correct_answer": "Công nghệ sinh học và canh tác thông minh",
+          "incorrect_answers": [
+              "Công nghệ thông tin",
+              "Công nghệ cơ khí",
+              "Công nghệ y học"
+          ]
+      },
+      {
+          "id": "194",
+          "category": "Author's Insight",
+          "question": "Việc áp dụng AI vào sản xuất giúp nâng cao điều gì?",
+          "correct_answer": "Nâng cao năng suất lao động",
+          "incorrect_answers": [
+              "Tăng chi phí sản xuất",
+              "Giảm năng suất lao động",
+              "Giảm hiệu quả sản xuất"
+          ]
+      },
+      {
+          "id": "195",
+          "category": "Author's Insight",
+          "question": "Giáo dục và đào tạo có vai trò gì trong việc giải quyết vấn đề nghèo đói?",
+          "correct_answer": "Cung cấp kỹ năng số và kỹ năng công nghệ cho người lao động",
+          "incorrect_answers": [
+              "Không có vai trò gì",
+              "Giảm cơ hội việc làm",
+              "Tăng chi phí sống"
+          ]
+      },
+      {
+          "id": "196",
+          "category": "Author's Insight",
+          "question": "Một trong những giải pháp để giúp con người thích nghi với sự thay đổi công nghệ nhanh chóng là gì?",
+          "correct_answer": "Tư duy mở và sáng tạo",
+          "incorrect_answers": [
+              "Tư duy bảo thủ",
+              "Tư duy thụ động",
+              "Tư duy ngắn hạn"
+          ]
+      },
+      {
+          "id": "197",
+          "category": "Author's Insight",
+          "question": "Tăng năng suất lao động giúp giảm nghèo bằng cách nào?",
+          "correct_answer": "Tăng thu nhập và hiệu quả sản xuất",
+          "incorrect_answers": [
+              "Giảm số lượng công việc",
+              "Tăng chi phí sản xuất",
+              "Giảm chất lượng sản phẩm"
+          ]
+      },
+      {
+          "id": "198",
+          "category": "Author's Insight",
+          "question": "Cải thiện năng suất nông nghiệp giúp giảm nghèo bằng cách nào?",
+          "correct_answer": "Tăng thu nhập và đảm bảo cung cấp đủ lương thực",
+          "incorrect_answers": [
+              "Giảm sản lượng cây trồng",
+              "Tăng chi phí sản xuất",
+              "Giảm số lượng cây trồng"
+          ]
+      },
+      {
+          "id": "199",
+          "category": "Author's Insight",
+          "question": "Giáo dục và đào tạo kỹ năng số giúp người lao động như thế nào?",
+          "correct_answer": "Thích nghi với công nghệ mới và có cơ hội thăng tiến",
+          "incorrect_answers": [
+              "Giảm cơ hội việc làm",
+              "Tăng chi phí sống",
+              "Giảm hiệu quả công việc"
+          ]
+      },
+      {
+          "id": "200",
+          "category": "Author's Insight",
+          "question": "Khuyến khích tư duy mở và sáng tạo giúp gì cho việc giảm nghèo?",
+          "correct_answer": "Tìm ra các giải pháp mới và hiệu quả hơn",
+          "incorrect_answers": [
+              "Không có tác động",
+              "Tăng chi phí sản xuất",
+              "Giảm số lượng công việc"
+          ]
+      }
+      
+      
+    
+    
+  
+
+
+
   ]
 }

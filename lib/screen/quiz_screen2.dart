@@ -10,18 +10,18 @@ import 'package:hay_doc_app/screen/result_screen.dart';
 // import 'package:http/http.dart' as http;
 import 'package:hay_doc_app/style.dart';
 
-class QuizScreen extends StatefulWidget {
-  const QuizScreen({super.key});
+class QuizScreen2 extends StatefulWidget {
+  const QuizScreen2({super.key});
 
   @override
-  State<QuizScreen> createState() => _QuizScreenState();
+  State<QuizScreen2> createState() => _QuizScreenState();
 }
 
-class _QuizScreenState extends State<QuizScreen> {
+class _QuizScreenState extends State<QuizScreen2> {
   @override
   void initState() {
     super.initState();
-    quiz = getQuizData();
+    quiz = getQuizData2();
     startTimer();
   }
 
@@ -186,7 +186,7 @@ class _QuizScreenState extends State<QuizScreen> {
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(25),
                             child: Image.asset(
-                              "assets/images/execution thinking.webp",
+                              "assets/images/20240804-203216.jpg",
                               width: 200,
                             ),
                           ),

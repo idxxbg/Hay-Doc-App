@@ -1,666 +1,2797 @@
 {
-    "response_code": 0,
-    "results": [
-      {
-        "id": "1",
-        "category": "History",
-        "question": "Lịch sử là gì?",
-        "correct_answer": "Những gì đã diễn ra trong quá khứ",
-        "incorrect_answers": [
-          "Những sự kiện xảy ra trong tương lai",
-          "Những câu chuyện thần thoại",
-          "Những dự đoán về tương lai"
-        ]
-      },
-      {
-        "id": "2",
-        "category": "History",
-        "question": "Môn Lịch sử là môn khoa học tìm hiểu về gì?",
-        "correct_answer": "Lịch sử loài người",
-        "incorrect_answers": [
-          "Động vật và thực vật",
-          "Thiên văn học",
-          "Nghệ thuật và văn hóa"
-        ]
-      },
-      {
-        "id": "3",
-        "category": "History",
-        "question": "Lịch sử giúp chúng ta hiểu gì?",
-        "correct_answer": "Những gì đã xảy ra trong quá khứ",
-        "incorrect_answers": [
-          "Các công nghệ hiện đại",
-          "Những xu hướng thời trang",
-          "Các ngôn ngữ cổ"
-        ]
-      },
-      {
-        "id": "4",
-        "category": "History",
-        "question": "Tại sao cần thiết phải học môn Lịch sử?",
-        "correct_answer": "Để hiểu biết về quá khứ và rút ra bài học cho tương lai",
-        "incorrect_answers": [
-          "Để giải trí",
-          "Để trở thành nhà văn",
-          "Để biết về các loài động vật"
-        ]
-      },
-      {
-        "id": "5",
-        "category": "History",
-        "question": "Ai đã nói câu 'Lịch sử là thầy dạy của cuộc sống'?",
-        "correct_answer": "Xi-xê-rông",
-        "incorrect_answers": [
-          "Platon",
-          "Socrates",
-          "Aristoteles"
-        ]
-      },
-      {
-        "id": "6",
-        "category": "History",
-        "question": "Các nguồn sử liệu cơ bản bao gồm gì?",
-        "correct_answer": "Tài liệu văn bản, hiện vật, truyền thuyết, và truyền khẩu",
-        "incorrect_answers": [
-          "Sách giáo khoa và bài báo",
-          "Phim ảnh và âm nhạc",
-          "Bài hát và thơ ca"
-        ]
-      },
-      {
-        "id": "7",
-        "category": "History",
-        "question": "Nguồn sử liệu nào có giá trị nhất khi tìm hiểu lịch sử?",
-        "correct_answer": "Tư liệu gốc",
-        "incorrect_answers": [
-          "Truyền thuyết và thần thoại",
-          "Các bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "8",
-        "category": "History",
-        "question": "Học lịch sử giúp chúng ta nhận thức được điều gì?",
-        "correct_answer": "Tầm quan trọng của quá khứ",
-        "incorrect_answers": [
-          "Tầm quan trọng của nghệ thuật",
-          "Tầm quan trọng của công nghệ",
-          "Tầm quan trọng của thể thao"
-        ]
-      },
-      {
-        "id": "9",
-        "category": "History",
-        "question": "Tư liệu chữ viết bao gồm gì?",
-        "correct_answer": "Các bản chữ khắc trên xương, mai rùa, vỏ cây, đá, các bản chép tay hay in trên giấy",
-        "incorrect_answers": [
-          "Truyền thuyết và thần thoại",
-          "Các bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "10",
-        "category": "History",
-        "question": "Học lịch sử có thể giúp chúng ta làm gì trong cuộc sống hàng ngày?",
-        "correct_answer": "Giải quyết các vấn đề hiện tại bằng cách học hỏi từ những sai lầm và thành công trong quá khứ",
-        "incorrect_answers": [
-          "Trở thành ca sĩ nổi tiếng",
-          "Học được cách nấu ăn ngon",
-          "Trở thành vận động viên chuyên nghiệp"
-        ]
-      },
-      {
-        "id": "11",
-        "category": "History",
-        "question": "Ví dụ cụ thể về lịch sử là gì?",
-        "correct_answer": "Cuộc cách mạng công nghiệp",
-        "incorrect_answers": [
-          "Phim ảnh hiện đại",
-          "Truyện cổ tích",
-          "Thời trang năm 2020"
-        ]
-      },
-      {
-        "id": "12",
-        "category": "History",
-        "question": "Lịch sử loài người bao gồm gì?",
-        "correct_answer": "Toàn bộ những hoạt động của con người và xã hội loài người trong quá khứ",
-        "incorrect_answers": [
-          "Chỉ các sự kiện chiến tranh",
-          "Các hoạt động khoa học",
-          "Các phát minh công nghệ"
-        ]
-      },
-      {
-        "id": "13",
-        "category": "History",
-        "question": "Khi quan sát một bức tranh lịch sử, câu hỏi nào có thể được đặt ra để tìm hiểu về quá khứ?",
-        "correct_answer": "Những gì đang diễn ra trong bức tranh?",
-        "incorrect_answers": [
-          "Bức tranh này được vẽ bằng chất liệu gì?",
-          "Ai là người tạo ra bức tranh này?",
-          "Màu sắc của bức tranh có đẹp không?"
-        ]
-      },
-      {
-        "id": "14",
-        "category": "History",
-        "question": "Mọi sự vật xung quanh chúng ta đều làm gì theo thời gian?",
-        "correct_answer": "Phát sinh, tồn tại và biến đổi",
-        "incorrect_answers": [
-          "Biến mất hoàn toàn",
-          "Không thay đổi",
-          "Phát triển và mãi mãi tồn tại"
-        ]
-      },
-      {
-        "id": "15",
-        "category": "History",
-        "question": "Xã hội loài người cũng có quá trình gì?",
-        "correct_answer": "Phát sinh, tồn tại và biến đổi",
-        "incorrect_answers": [
-          "Không thay đổi",
-          "Biến mất hoàn toàn",
-          "Chỉ phát triển không ngừng"
-        ]
-      },
-      {
-        "id": "16",
-        "category": "History",
-        "question": "Lịch sử giúp chúng ta học hỏi điều gì?",
-        "correct_answer": "Các sai lầm và thành công trong quá khứ",
-        "incorrect_answers": [
-          "Các xu hướng hiện tại",
-          "Các phong trào nghệ thuật",
-          "Các ngôn ngữ mới"
-        ]
-      },
-      {
-        "id": "17",
-        "category": "History",
-        "question": "Môn Lịch sử giúp chúng ta phân biệt điều gì?",
-        "correct_answer": "Quá khứ, hiện tại và tương lai",
-        "incorrect_answers": [
-          "Các loài động vật",
-          "Các loại cây trồng",
-          "Các ngôn ngữ cổ"
-        ]
-      },
-      {
-        "id": "18",
-        "category": "History",
-        "question": "Tại sao cần học môn Lịch sử?",
-        "correct_answer": "Để hiểu rõ quá khứ và rút ra bài học cho tương lai",
-        "incorrect_answers": [
-          "Để giải trí",
-          "Để viết truyện",
-          "Để vẽ tranh"
-        ]
-      },
-      {
-        "id": "19",
-        "category": "History",
-        "question": "Tại sao có người cho rằng không cần học môn Lịch sử?",
-        "correct_answer": "Vì lịch sử là những gì đã qua, không thể thay đổi được",
-        "incorrect_answers": [
-          "Vì lịch sử không quan trọng",
-          "Vì học lịch sử khó hiểu",
-          "Vì lịch sử không liên quan đến cuộc sống hiện tại"
-        ]
-      },
-      {
-        "id": "20",
-        "category": "History",
-        "question": "Em có đồng ý với ý kiến rằng không cần học môn Lịch sử không? Tại sao?",
-        "correct_answer": "Không đồng ý, vì học lịch sử giúp chúng ta hiểu về cội nguồn và đúc kết bài học kinh nghiệm",
-        "incorrect_answers": [
-          "Đồng ý, vì lịch sử đã qua và không thể thay đổi",
-          "Đồng ý, vì học lịch sử rất khó khăn",
-          "Không đồng ý, vì lịch sử chỉ là một môn học phụ"
-        ]
-      },
-      {
-        "id": "21",
-        "category": "History",
-        "question": "Từ 'gốc tích' trong câu thơ của Chủ tịch Hồ Chí Minh có nghĩa là gì?",
-        "correct_answer": "Cội nguồn",
-        "incorrect_answers": [
-          "Tương lai",
-          "Hiện tại",
-          "Sự phát triển"
-        ]
-      },
-      {
-        "id": "22",
-        "category": "History",
-        "question": "Câu thơ 'Dân ta phải biết sử ta, Cho tường gốc tích nước nhà Việt Nam' của Chủ tịch Hồ Chí Minh có ý nghĩa gì?",
-        "correct_answer": "Nhấn mạnh tầm quan trọng của việc hiểu biết về lịch sử của dân tộc",
-        "incorrect_answers": [
-          "Khuyến khích học tập ngôn ngữ",
-          "Khuyến khích phát triển kinh tế",
-          "Nhấn mạnh việc giữ gìn văn hóa truyền thống"
-        ]
-      },
-      {
-        "id": "23",
-        "category": "History",
-        "question": "Học lịch sử giúp chúng ta hiểu được điều gì?",
-        "correct_answer": "Cội nguồn của tổ tiên, quê hương, đất nước",
-        "incorrect_answers": [
-          "Các phát minh khoa học",
-          "Các phong trào nghệ thuật",
-          "Các ngôn ngữ cổ"
-        ]
-      },
-      {
-        "id": "24",
-        "category": "History",
-        "question": "Ông cha ta đã phải làm gì để có được đất nước ngày nay?",
-        "correct_answer": "Lao động, sáng tạo và đấu tranh",
-        "incorrect_answers": [
-          "Du lịch và giải trí",
-          "Học tập và nghiên cứu",
-          "Kinh doanh và thương mại"
-        ]
-      },
-      {
-        "id": "25",
-        "category": "History",
-        "question": "Học lịch sử giúp chúng ta đúc kết điều gì?",
-        "correct_answer": "Những bài học kinh nghiệm của quá khứ",
-        "incorrect_answers": [
-          "Các xu hướng thời trang",
-          "Các phong cách nghệ thuật",
-          "Các ngôn ngữ mới"
-        ]
-      },
-      {
-        "id": "26",
-        "category": "History",
-        "question": "Học lịch sử có ích gì cho hiện tại và tương lai?",
-        "correct_answer": "Giúp đúc kết kinh nghiệm từ quá khứ để phục vụ cho hiện tại và tương lai",
-        "incorrect_answers": [
-          "Giúp giải trí và thư giãn",
-          "Giúp học tập các môn học khác",
-          "Giúp phát triển kỹ năng nghệ thuật"
-        ]
-      },
-      {
-        "id": "27",
-        "category": "History",
-        "question": "Câu thơ của Chủ tịch Hồ Chí Minh nhấn mạnh điều gì?",
-        "correct_answer": "Tầm quan trọng của việc học lịch sử",
-        "incorrect_answers": [
-          "Tầm quan trọng của việc phát triển kinh tế",
-          "Tầm quan trọng của việc bảo vệ môi trường",
-          "Tầm quan trọng của việc giữ gìn sức khỏe"
-        ]
-      },
-      {
-        "id": "28",
-        "category": "History",
-        "question": "Học lịch sử giúp chúng ta nhận ra điều gì về ông cha ta?",
-        "correct_answer": "Những khó khăn và nỗ lực mà ông cha ta đã trải qua",
-        "incorrect_answers": [
-          "Những thành tựu nghệ thuật của ông cha ta",
-          "Những phát minh công nghệ của ông cha ta",
-          "Những xu hướng thời trang của ông cha ta"
-        ]
-      },
-      {
-        "id": "29",
-        "category": "History",
-        "question": "Tư liệu truyền miệng bao gồm những gì?",
-        "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
-        "incorrect_answers": [
-          "Sách giáo khoa",
-          "Bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "30",
-        "category": "History",
-        "question": "Tư liệu hiện vật là gì?",
-        "correct_answer": "Những dấu tích vật chất của người xưa còn giữ được trong lòng đất hay trên mặt đất",
-        "incorrect_answers": [
-          "Các bản chép tay hay in trên giấy",
-          "Các bản chữ khắc trên xương",
-          "Các bản viết trên đá"
-        ]
-      },
-      {
-        "id": "31",
-        "category": "History",
-        "question": "Tư liệu chữ viết bao gồm những gì?",
-        "correct_answer": "Các bản chữ khắc trên xương, mai rùa, vỏ cây, đá, các bản chép tay hay in trên giấy",
-        "incorrect_answers": [
-          "Truyền thuyết và thần thoại",
-          "Các bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "32",
-        "category": "History",
-        "question": "Tư liệu gốc là gì?",
-        "correct_answer": "Tư liệu liên quan trực tiếp đến sự kiện lịch sử, ra đời vào thời điểm diễn ra sự kiện",
-        "incorrect_answers": [
-          "Các bản chép tay",
-          "Truyền thuyết và thần thoại",
-          "Các bài hát và thơ ca"
-        ]
-      },
-      {
-        "id": "33",
-        "category": "History",
-        "question": "Tại sao tư liệu gốc lại có giá trị lịch sử xác thực nhất?",
-        "correct_answer": "Vì chúng phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
-        "incorrect_answers": [
-          "Vì chúng được ghi chép đầy đủ",
-          "Vì chúng được truyền miệng qua nhiều thế hệ",
-          "Vì chúng có hình ảnh đẹp"
-        ]
-      },
-      {
-        "id": "34",
-        "category": "History",
-        "question": "Tư liệu truyền miệng có ý nghĩa gì trong giai đoạn chưa có chữ viết?",
-        "correct_answer": "Là nguồn thông tin để tìm hiểu lịch sử",
-        "incorrect_answers": [
-          "Là nguồn giải trí",
-          "Là nguồn cảm hứng nghệ thuật",
-          "Là nguồn tin tức thời sự"
-        ]
-      },
-      {
-        "id": "35",
-        "category": "History",
-        "question": "Tư liệu hiện vật có thể giúp chúng ta làm gì?",
-        "correct_answer": "Tìm hiểu và dựng lại lịch sử",
-        "incorrect_answers": [
-          "Học các môn học khác",
-          "Viết văn và làm thơ",
-          "Phát minh công nghệ mới"
-        ]
-      },
-      {
-        "id": "36",
-        "category": "History",
-        "question": "Tư liệu chữ viết ghi chép những gì?",
-        "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
-        "incorrect_answers": [
-          "Các phong cách nghệ thuật",
-          "Các xu hướng thời trang",
-          "Các phát minh khoa học"
-        ]
-      },
-      {
-        "id": "37",
-        "category": "History",
-        "question": "Tư liệu nào được xem là đáng tin cậy nhất khi tìm hiểu lịch sử?",
-        "correct_answer": "Tư liệu gốc",
-        "incorrect_answers": [
-          "Tư liệu truyền miệng",
-          "Tư liệu chữ viết",
-          "Tư liệu hiện vật"
-        ]
-      },
-      {
-        "id": "38",
-        "category": "History",
-        "question": "Quá khứ đã qua và không thể quay lại, chỉ còn lại gì với chúng ta?",
-        "correct_answer": "Dấu tích của người xưa",
-        "incorrect_answers": [
-          "Hình ảnh và video",
-          "Các bản nhạc",
-          "Các bộ phim"
-        ]
-      },
-      {
-        "id": "39",
-        "category": "History",
-        "question": "Tư liệu hiện vật còn có thể được sử dụng để làm gì?",
-        "correct_answer": "Kiểm chứng các tư liệu chữ viết",
-        "incorrect_answers": [
-          "Viết văn và làm thơ",
-          "Sáng tác nhạc",
-          "Vẽ tranh"
-        ]
-      },
-      {
-        "id": "40",
-        "category": "History",
-        "question": "Một ví dụ về tư liệu gốc là gì?",
-        "correct_answer": "Các tài liệu được viết vào thời điểm diễn ra sự kiện lịch sử",
-        "incorrect_answers": [
-          "Các bản nhạc cổ",
-          "Các bức tranh hiện đại",
-          "Các bộ phim lịch sử"
-        ]
-      },
-      {
-        "id": "41",
-        "category": "History",
-        "question": "Tư liệu truyền miệng có thể bao gồm những thể loại nào?",
-        "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
-        "incorrect_answers": [
-          "Sách giáo khoa",
-          "Bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "42",
-        "category": "History",
-        "question": "Tư liệu hiện vật bao gồm những gì?",
-        "correct_answer": "Các công trình kiến trúc, các tác phẩm nghệ thuật, đồ gốm",
-        "incorrect_answers": [
-          "Các bản chép tay",
-          "Truyền thuyết và thần thoại",
-          "Các bài hát và thơ ca"
-        ]
-      },
-      {
-        "id": "43",
-        "category": "History",
-        "question": "Tư liệu chữ viết có thể được ghi trên những chất liệu nào?",
-        "correct_answer": "Xương, mai rùa, vỏ cây, đá, giấy",
-        "incorrect_answers": [
-          "Gỗ và kim loại",
-          "Vải và da",
-          "Thủy tinh và nhựa"
-        ]
-      },
-      {
-        "id": "44",
-        "category": "History",
-        "question": "Tư liệu gốc phản ánh điều gì?",
-        "correct_answer": "Sự kiện lịch sử vào thời điểm diễn ra",
-        "incorrect_answers": [
-          "Các phong cách nghệ thuật",
-          "Các xu hướng thời trang",
-          "Các phát minh khoa học"
-        ]
-      },
-      {
-        "id": "45",
-        "category": "History",
-        "question": "Tại sao tư liệu truyền miệng có giá trị lịch sử?",
-        "correct_answer": "Vì nó được truyền từ đời này qua đời khác",
-        "incorrect_answers": [
-          "Vì nó có hình ảnh đẹp",
-          "Vì nó được ghi chép đầy đủ",
-          "Vì nó là nguồn giải trí"
-        ]
-      },
-      {
-        "id": "46",
-        "category": "History",
-        "question": "Tư liệu hiện vật giúp chúng ta làm gì trong việc nghiên cứu lịch sử?",
-        "correct_answer": "Tìm hiểu và dựng lại lịch sử",
-        "incorrect_answers": [
-          "Học các môn học khác",
-          "Viết văn và làm thơ",
-          "Phát minh công nghệ mới"
-        ]
-      },
-      {
-        "id": "47",
-        "category": "History",
-        "question": "Tư liệu chữ viết giúp ghi chép điều gì?",
-        "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
-        "incorrect_answers": [
-          "Các phong cách nghệ thuật",
-          "Các xu hướng thời trang",
-          "Các phát minh khoa học"
-        ]
-      },
-      {
-        "id": "48",
-        "category": "History",
-        "question": "Tư liệu gốc được xem là đáng tin cậy nhất khi nào?",
-        "correct_answer": "Khi nó phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
-        "incorrect_answers": [
-          "Khi nó được ghi chép đầy đủ",
-          "Khi nó được truyền miệng qua nhiều thế hệ",
-          "Khi nó có hình ảnh đẹp"
-        ]
-      },
-      {
-        "id": "49",
-        "category": "History",
-        "question": "Tư liệu truyền miệng là nguồn thông tin quan trọng trong giai đoạn nào?",
-        "correct_answer": "Khi chưa có chữ viết",
-        "incorrect_answers": [
-          "Khi có nhiều sách giáo khoa",
-          "Khi có nhiều bài hát và thơ ca",
-          "Khi có nhiều phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "50",
-        "category": "History",
-        "question": "Tư liệu hiện vật có thể bao gồm những gì?",
-        "correct_answer": "Các công trình kiến trúc, các tác phẩm nghệ thuật, đồ gốm",
-        "incorrect_answers": [
-          "Các bản nhạc cổ",
-          "Các bức tranh hiện đại",
-          "Các bộ phim lịch sử"
-        ]
-      },
-      {
-        "id": "51",
-        "category": "History",
-        "question": "Tư liệu chữ viết có thể ghi chép trên các chất liệu nào?",
-        "correct_answer": "Xương, mai rùa, vỏ cây, đá, giấy",
-        "incorrect_answers": [
-          "Gỗ và kim loại",
-          "Vải và da",
-          "Thủy tinh và nhựa"
-        ]
-      },
-      {
-        "id": "52",
-        "category": "History",
-        "question": "Tư liệu gốc có giá trị vì sao?",
-        "correct_answer": "Vì nó phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
-        "incorrect_answers": [
-          "Vì nó có hình ảnh đẹp",
-          "Vì nó được ghi chép đầy đủ",
-          "Vì nó được truyền miệng qua nhiều thế hệ"
-        ]
-      },
-      {
-        "id": "53",
-        "category": "History",
-        "question": "Tư liệu truyền miệng bao gồm những thể loại gì?",
-        "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
-        "incorrect_answers": [
-          "Sách giáo khoa",
-          "Bài hát và thơ ca",
-          "Phim ảnh và âm nhạc"
-        ]
-      },
-      {
-        "id": "54",
-        "category": "History",
-        "question": "Tư liệu hiện vật là những gì còn giữ được từ người xưa dưới dạng nào?",
-        "correct_answer": "Dấu tích vật chất",
-        "incorrect_answers": [
-          "Hình ảnh và video",
-          "Các bản nhạc",
-          "Các bộ phim"
-        ]
-      },
-      {
-        "id": "55",
-        "category": "History",
-        "question": "Tư liệu chữ viết giúp ghi chép những gì?",
-        "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
-        "incorrect_answers": [
-          "Các phong cách nghệ thuật",
-          "Các xu hướng thời trang",
-          "Các phát minh khoa học"
-        ]
-      },
-      {
-        "id": "56",
-        "category": "History",
-        "question": "Tư liệu gốc có giá trị lịch sử như thế nào?",
-        "correct_answer": "Xác thực và đáng tin cậy nhất",
-        "incorrect_answers": [
-          "Chỉ để giải trí",
-          "Chỉ để làm đẹp",
-          "Chỉ để học tập"
-        ]
-      },
-      {
-        "id": "57",
-        "category": "History",
-        "question": "Tư liệu truyền miệng có ý nghĩa gì trong nghiên cứu lịch sử?",
-        "correct_answer": "Là nguồn thông tin quan trọng",
-        "incorrect_answers": [
-          "Là nguồn giải trí",
-          "Là nguồn cảm hứng nghệ thuật",
-          "Là nguồn tin tức thời sự"
-        ]
-      },
-      {
-        "id": "58",
-        "category": "History",
-        "question": "Tư liệu hiện vật giúp chúng ta làm gì?",
-        "correct_answer": "Tìm hiểu và dựng lại lịch sử",
-        "incorrect_answers": [
-          "Học các môn học khác",
-          "Viết văn và làm thơ",
-          "Phát minh công nghệ mới"
-        ]
-      },
-      {
-        "id": "59",
-        "category": "History",
-        "question": "Tư liệu chữ viết giúp ghi chép những gì?",
-        "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
-        "incorrect_answers": [
-          "Các phong cách nghệ thuật",
-          "Các xu hướng thời trang",
-          "Các phát minh khoa học"
-        ]
-      },
-      {
-        "id": "60",
-        "category": "History",
-        "question": "Tư liệu gốc có giá trị lịch sử như thế nào?",
-        "correct_answer": "Xác thực và đáng tin cậy nhất",
-        "incorrect_answers": [
-          "Chỉ để giải trí",
-          "Chỉ để làm đẹp",
-          "Chỉ để học tập"
-        ]
-      }
+  "response_code": 0,
+  "results": [
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "1",
+      "question": "Lịch sử là gì?",
+      "correct_answer": "Những gì đã diễn ra trong quá khứ",
+      "incorrect_answers": [
+        "Những sự kiện xảy ra trong tương lai",
+        "Những câu chuyện thần thoại",
+        "Những dự đoán về tương lai"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "2",
+      "question": "Ví dụ cụ thể về lịch sử là gì?",
+      "correct_answer": "Cuộc cách mạng công nghiệp",
+      "incorrect_answers": [
+        "Phim ảnh hiện đại",
+        "Truyện cổ tích",
+        "Thời trang năm 2020"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "3",
+      "question": "Môn Lịch sử là môn khoa học tìm hiểu về gì?",
+      "correct_answer": "Lịch sử loài người",
+      "incorrect_answers": [
+        "Động vật và thực vật",
+        "Thiên văn học",
+        "Nghệ thuật và văn hóa"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "4",
+      "question": "Lịch sử loài người bao gồm gì?",
+      "correct_answer": "Toàn bộ những hoạt động của con người và xã hội loài người trong quá khứ",
+      "incorrect_answers": [
+        "Chỉ các sự kiện chiến tranh",
+        "Các hoạt động khoa học",
+        "Các phát minh công nghệ"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "5",
+      "question": "Khi quan sát một bức tranh lịch sử câu hỏi nào có thể được đặt ra để tìm hiểu về quá khứ?",
+      "correct_answer": "Những gì đang diễn ra trong bức tranh?",
+      "incorrect_answers": [
+        "Bức tranh này được vẽ bằng chất liệu gì?",
+        "Ai là người tạo ra bức tranh này?",
+        "Màu sắc của bức tranh có đẹp không?"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "6",
+      "question": "Mọi sự vật xung quanh chúng ta đều làm gì theo thời gian?",
+      "correct_answer": "Phát sinh, tồn tại và biến đổi",
+      "incorrect_answers": [
+        "Biến mất hoàn toàn",
+        "Không thay đổi",
+        "Phát triển và mãi mãi tồn tại"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "7",
+      "question": "Xã hội loài người cũng có quá trình gì?",
+      "correct_answer": "Phát sinh, tồn tại và biến đổi",
+      "incorrect_answers": [
+        "Không thay đổi",
+        "Biến mất hoàn toàn",
+        "Chỉ phát triển không ngừng"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "8",
+      "question": "Lịch sử giúp chúng ta học hỏi điều gì?",
+      "correct_answer": "Các sai lầm và thành công trong quá khứ",
+      "incorrect_answers": [
+        "Các xu hướng hiện tại",
+        "Các phong trào nghệ thuật",
+        "Các ngôn ngữ mới"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "9",
+      "question": "Môn Lịch sử giúp chúng ta phân biệt điều gì?",
+      "correct_answer": "Quá khứ, hiện tại và tương lai",
+      "incorrect_answers": [
+        "Các loài động vật",
+        "Các loại cây trồng",
+        "Các ngôn ngữ cổ"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "10",
+      "question": "Tại sao cần học môn Lịch sử?",
+      "correct_answer": "Để hiểu rõ quá khứ và rút ra bài học cho tương lai",
+      "incorrect_answers": [
+        "Để giải trí",
+        "Để viết truyện",
+        "Để vẽ tranh"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "11",
+      "question": "Khi quan sát một bức tranh lịch sử câu hỏi nào có thể được đặt ra để tìm hiểu về quá khứ?",
+      "correct_answer": "Những gì đang diễn ra trong bức tranh?",
+      "incorrect_answers": [
+        "Bức tranh này được vẽ bằng chất liệu gì?",
+        "Ai là người tạo ra bức tranh này?",
+        "Màu sắc của bức tranh có đẹp không?"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "12",
+      "question": "Mọi sự vật xung quanh chúng ta đều làm gì theo thời gian?",
+      "correct_answer": "Phát sinh, tồn tại và biến đổi",
+      "incorrect_answers": [
+        "Biến mất hoàn toàn",
+        "Không thay đổi",
+        "Phát triển và mãi mãi tồn tại"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "13",
+      "question": "Xã hội loài người cũng có quá trình gì?",
+      "correct_answer": "Phát sinh, tồn tại và biến đổi",
+      "incorrect_answers": [
+        "Không thay đổi",
+        "Biến mất hoàn toàn",
+        "Chỉ phát triển không ngừng"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "I. LỊCH SỬ VÀ MÔN LỊCH SỬ",
+      "category": "History",
+      "id": "14",
+      "question": "Lịch sử giúp chúng ta học hỏi điều gì?",
+      "correct_answer": "Các sai lầm và thành công trong quá khứ",
+      "incorrect_answers": [
+        "Các xu hướng hiện tại",
+        "Các phong trào nghệ thuật",
+        "Các ngôn ngữ mới"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "15",
+      "question": "Tại sao có người cho rằng không cần học môn Lịch sử?",
+      "correct_answer": "Vì lịch sử là những gì đã qua không thể thay đổi được",
+      "incorrect_answers": [
+        "Vì lịch sử không quan trọng",
+        "Vì học lịch sử khó hiểu",
+        "Vì lịch sử không liên quan đến cuộc sống hiện tại"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "16",
+      "question": "Em có đồng ý với ý kiến rằng không cần học môn Lịch sử không? Tại sao?",
+      "correct_answer": "Không đồng ý vì học lịch sử giúp chúng ta hiểu về cội nguồn và đúc kết bài học kinh nghiệm",
+      "incorrect_answers": [
+        "Đồng ý vì lịch sử đã qua và không thể thay đổi",
+        "Đồng ý vì học lịch sử rất khó khăn",
+        "Không đồng ý vì lịch sử chỉ là một môn học phụ"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "17",
+      "question": "Từ 'gốc tích' trong câu thơ của Chủ tịch Hồ Chí Minh có nghĩa là gì?",
+      "correct_answer": "Cội nguồn",
+      "incorrect_answers": [
+        "Tương lai",
+        "Hiện tại",
+        "Sự phát triển"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "18",
+      "question": "Câu thơ 'Dân ta phải biết sử ta Cho tường gốc tích nước nhà Việt Nam' của Chủ tịch Hồ Chí Minh có ý nghĩa gì?",
+      "correct_answer": "Nhấn mạnh tầm quan trọng của việc hiểu biết về lịch sử của dân tộc",
+      "incorrect_answers": [
+        "Khuyến khích học tập ngôn ngữ",
+        "Khuyến khích phát triển kinh tế",
+        "Nhấn mạnh việc giữ gìn văn hóa truyền thống"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "19",
+      "question": "Học lịch sử giúp chúng ta hiểu được điều gì?",
+      "correct_answer": "Cội nguồn của tổ tiên, quê hương, đất nước",
+      "incorrect_answers": [
+        "Các phát minh khoa học",
+        "Các phong trào nghệ thuật",
+        "Các ngôn ngữ cổ"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "20",
+      "question": "Ông cha ta đã phải làm gì để có được đất nước ngày nay?",
+      "correct_answer": "Lao động sáng tạo và đấu tranh",
+      "incorrect_answers": [
+        "Du lịch và giải trí",
+        "Học tập và nghiên cứu",
+        "Kinh doanh và thương mại"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "21",
+      "question": "Học lịch sử giúp chúng ta đúc kết điều gì?",
+      "correct_answer": "Những bài học kinh nghiệm của quá khứ",
+      "incorrect_answers": [
+        "Các xu hướng thời trang",
+        "Các phong cách nghệ thuật",
+        "Các ngôn ngữ mới"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "22",
+      "question": "Học lịch sử có ích gì cho hiện tại và tương lai?",
+      "correct_answer": "Giúp đúc kết kinh nghiệm từ quá khứ để phục vụ cho hiện tại và tương lai",
+      "incorrect_answers": [
+        "Giúp giải trí và thư giãn",
+        "Giúp học tập các môn học khác",
+        "Giúp phát triển kỹ năng nghệ thuật"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "23",
+      "question": "Câu thơ của Chủ tịch Hồ Chí Minh nhấn mạnh điều gì?",
+      "correct_answer": "Tầm quan trọng của việc học lịch sử",
+      "incorrect_answers": [
+        "Tầm quan trọng của việc phát triển kinh tế",
+        "Tầm quan trọng của việc bảo vệ môi trường",
+        "Tầm quan trọng của việc giữ gìn sức khỏe"
+      ]
+    },
+    {
+      "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+      "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+      "section": "II. VÌ SAO PHẢI HỌC LỊCH SỬ",
+      "category": "History",
+      "id": "24",
+      "question": "Học lịch sử giúp chúng ta nhận ra điều gì về ông cha ta?",
+      "correct_answer": "Những khó khăn và nỗ lực mà ông cha ta đã trải qua",
+      "incorrect_answers": [
+        "Những thành tựu nghệ thuật của ông cha ta",
+        "Những phát minh công nghệ của ông cha ta",
+        "Những xu hướng thời trang của ông cha ta"
+      ]
+    },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "25",
+    "question": "Tư liệu truyền miệng bao gồm những gì?",
+    "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
+    "incorrect_answers": [
+      "Sách giáo khoa",
+      "Bài hát và thơ ca",
+      "Phim ảnh và âm nhạc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "26",
+    "question": "Tư liệu hiện vật là gì?",
+    "correct_answer": "Những dấu tích vật chất của người xưa còn giữ được trong lòng đất hay trên mặt đất",
+    "incorrect_answers": [
+      "Các bản chép tay hay in trên giấy",
+      "Các bản chữ khắc trên xương",
+      "Các bản viết trên đá"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "27",
+    "question": "Tư liệu chữ viết bao gồm những gì?",
+    "correct_answer": "Các bản chữ khắc trên xương, mai rùa, vỏ cây, đá, các bản chép tay hay in trên giấy",
+    "incorrect_answers": [
+      "Truyền thuyết và thần thoại",
+      "Các bài hát và thơ ca",
+      "Phim ảnh và âm nhạc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "28",
+    "question": "Tư liệu gốc là gì?",
+    "correct_answer": "Tư liệu liên quan trực tiếp đến sự kiện lịch sử, ra đời vào thời điểm diễn ra sự kiện",
+    "incorrect_answers": [
+      "Các bản chép tay",
+      "Truyền thuyết và thần thoại",
+      "Các bài hát và thơ ca"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "29",
+    "question": "Tại sao tư liệu gốc lại có giá trị lịch sử xác thực nhất?",
+    "correct_answer": "Vì chúng phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
+    "incorrect_answers": [
+      "Vì chúng được ghi chép đầy đủ",
+      "Vì chúng được truyền miệng qua nhiều thế hệ",
+      "Vì chúng có hình ảnh đẹp"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "30",
+    "question": "Tư liệu truyền miệng có ý nghĩa gì trong giai đoạn chưa có chữ viết?",
+    "correct_answer": "Là nguồn thông tin để tìm hiểu lịch sử",
+    "incorrect_answers": [
+      "Là nguồn giải trí",
+      "Là nguồn cảm hứng nghệ thuật",
+      "Là nguồn tin tức thời sự"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "31",
+    "question": "Tư liệu hiện vật có thể giúp chúng ta làm gì?",
+    "correct_answer": "Tìm hiểu và dựng lại lịch sử",
+    "incorrect_answers": [
+      "Học các môn học khác",
+      "Viết văn và làm thơ",
+      "Phát minh công nghệ mới"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "32",
+    "question": "Tư liệu chữ viết ghi chép những gì?",
+    "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
+    "incorrect_answers": [
+      "Các phong cách nghệ thuật",
+      "Các xu hướng thời trang",
+      "Các phát minh khoa học"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "33",
+    "question": "Tư liệu nào được xem là đáng tin cậy nhất khi tìm hiểu lịch sử?",
+    "correct_answer": "Tư liệu gốc",
+    "incorrect_answers": [
+      "Tư liệu truyền miệng",
+      "Tư liệu chữ viết",
+      "Tư liệu hiện vật"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "34",
+    "question": "Quá khứ đã qua và không thể quay lại, chỉ còn lại gì với chúng ta?",
+    "correct_answer": "Dấu tích của người xưa",
+    "incorrect_answers": [
+      "Hình ảnh và video",
+      "Các bản nhạc",
+      "Các bộ phim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "35",
+    "question": "Tư liệu hiện vật còn có thể được sử dụng để làm gì?",
+    "correct_answer": "Kiểm chứng các tư liệu chữ viết",
+    "incorrect_answers": [
+      "Viết văn và làm thơ",
+      "Sáng tác nhạc",
+      "Vẽ tranh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "36",
+    "question": "Một ví dụ về tư liệu gốc là gì?",
+    "correct_answer": "Các tài liệu được viết vào thời điểm diễn ra sự kiện lịch sử",
+    "incorrect_answers": [
+      "Các bản nhạc cổ",
+      "Các bức tranh hiện đại",
+      "Các bộ phim lịch sử"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "37",
+    "question": "Tư liệu truyền miệng có thể bao gồm những thể loại nào?",
+    "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
+    "incorrect_answers": [
+      "Sách giáo khoa",
+      "Bài hát và thơ ca",
+      "Phim ảnh và âm nhạc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "38",
+    "question": "Tư liệu hiện vật bao gồm những gì?",
+    "correct_answer": "Các công trình kiến trúc, các tác phẩm nghệ thuật, đồ gốm",
+    "incorrect_answers": [
+      "Các bản chép tay",
+      "Truyền thuyết và thần thoại",
+      "Các bài hát và thơ ca"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "39",
+    "question": "Tư liệu chữ viết có thể được ghi trên những chất liệu nào?",
+    "correct_answer": "Xương, mai rùa, vỏ cây, đá, giấy",
+    "incorrect_answers": [
+      "Gỗ và kim loại",
+      "Vải và da",
+      "Thủy tinh và nhựa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "40",
+    "question": "Tư liệu gốc phản ánh điều gì?",
+    "correct_answer": "Sự kiện lịch sử vào thời điểm diễn ra",
+    "incorrect_answers": [
+      "Các phong cách nghệ thuật",
+      "Các xu hướng thời trang",
+      "Các phát minh khoa học"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "41",
+    "question": "Tại sao tư liệu truyền miệng có giá trị lịch sử?",
+    "correct_answer": "Vì nó được truyền từ đời này qua đời khác",
+    "incorrect_answers": [
+      "Vì nó có hình ảnh đẹp",
+      "Vì nó được ghi chép đầy đủ",
+      "Vì nó là nguồn giải trí"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "42",
+    "question": "Tư liệu hiện vật giúp chúng ta làm gì trong việc nghiên cứu lịch sử?",
+    "correct_answer": "Tìm hiểu và dựng lại lịch sử",
+    "incorrect_answers": [
+      "Học các môn học khác",
+      "Viết văn và làm thơ",
+      "Phát minh công nghệ mới"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "43",
+    "question": "Tư liệu chữ viết giúp ghi chép điều gì?",
+    "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
+    "incorrect_answers": [
+      "Các phong cách nghệ thuật",
+      "Các xu hướng thời trang",
+      "Các phát minh khoa học"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "44",
+    "question": "Tư liệu gốc được xem là đáng tin cậy nhất khi nào?",
+    "correct_answer": "Khi nó phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
+    "incorrect_answers": [
+      "Khi nó được ghi chép đầy đủ",
+      "Khi nó được truyền miệng qua nhiều thế hệ",
+      "Khi nó có hình ảnh đẹp"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "45",
+    "question": "Tư liệu truyền miệng là nguồn thông tin quan trọng trong giai đoạn nào?",
+    "correct_answer": "Khi chưa có chữ viết",
+    "incorrect_answers": [
+      "Khi có nhiều sách giáo khoa",
+      "Khi có nhiều bài hát và thơ ca",
+      "Khi có nhiều phim ảnh và âm nhạc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "46",
+    "question": "Tư liệu hiện vật có thể bao gồm những gì?",
+    "correct_answer": "Các công trình kiến trúc, các tác phẩm nghệ thuật, đồ gốm",
+    "incorrect_answers": [
+      "Các bản nhạc cổ",
+      "Các bức tranh hiện đại",
+      "Các bộ phim lịch sử"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "47",
+    "question": "Tư liệu chữ viết có thể ghi chép trên các chất liệu nào?",
+    "correct_answer": "Xương, mai rùa, vỏ cây, đá, giấy",
+    "incorrect_answers": [
+      "Gỗ và kim loại",
+      "Vải và da",
+      "Thủy tinh và nhựa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "48",
+    "question": "Tư liệu gốc có giá trị vì sao?",
+    "correct_answer": "Vì nó phản ánh trực tiếp sự kiện lịch sử vào thời điểm diễn ra",
+    "incorrect_answers": [
+      "Vì nó có hình ảnh đẹp",
+      "Vì nó được ghi chép đầy đủ",
+      "Vì nó được truyền miệng qua nhiều thế hệ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "49",
+    "question": "Tư liệu truyền miệng bao gồm những thể loại gì?",
+    "correct_answer": "Truyền thuyết, thần thoại, ca dao, dân ca",
+    "incorrect_answers": [
+      "Sách giáo khoa",
+      "Bài hát và thơ ca",
+      "Phim ảnh và âm nhạc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "50",
+    "question": "Tư liệu hiện vật là những gì còn giữ được từ người xưa dưới dạng nào?",
+    "correct_answer": "Dấu tích vật chất",
+    "incorrect_answers": [
+      "Hình ảnh và video",
+      "Các bản nhạc",
+      "Các bộ phim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "51",
+    "question": "Tư liệu chữ viết giúp ghi chép những gì?",
+    "correct_answer": "Mọi mặt đời sống con người và các sự kiện lịch sử đã xảy ra",
+    "incorrect_answers": [
+      "Các phong cách nghệ thuật",
+      "Các xu hướng thời trang",
+      "Các phát minh khoa học"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "52",
+    "question": "Tư liệu gốc có giá trị lịch sử như thế nào?",
+    "correct_answer": "Xác thực và đáng tin cậy nhất",
+    "incorrect_answers": [
+      "Chỉ để giải trí",
+      "Chỉ để làm đẹp",
+      "Chỉ để học tập"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "53",
+    "question": "Tư liệu truyền miệng có ý nghĩa gì trong nghiên cứu lịch sử?",
+    "correct_answer": "Là nguồn thông tin quan trọng",
+    "incorrect_answers": [
+      "Là nguồn giải trí",
+      "Là nguồn cảm hứng nghệ thuật",
+      "Là nguồn tin tức thời sự"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "III. KHÁM PHÁ QUÁ KHỨ TỪ CÁC NGUỒN SỬ LIỆU",
+    "category": "History",
+    "id": "54",
+    "question": "Tư liệu hiện vật giúp chúng ta làm gì?",
+    "correct_answer": "Tìm hiểu và dựng lại lịch sử",
+    "incorrect_answers": [
+      "Học các môn học khác",
+      "Viết văn và làm thơ",
+      "Phát minh công nghệ mới"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "55",
+    "question": "Tại sao cần thiết phải học môn Lịch sử?",
+    "correct_answer": "Để hiểu biết về quá khứ và rút ra bài học cho hiện tại và tương lai",
+    "incorrect_answers": [
+      "Để giải trí",
+      "Để có thêm kiến thức tổng quát",
+      "Để làm quen với các sự kiện nổi bật"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "56",
+    "question": "Căn cứ vào đâu để biết và dựng lại lịch sử?",
+    "correct_answer": "Tài liệu, di tích, di vật và lời kể",
+    "incorrect_answers": [
+      "Truyện cổ tích và truyền thuyết",
+      "Các câu chuyện truyền miệng",
+      "Tranh vẽ và phim ảnh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "57",
+    "question": "Di tích lịch sử nổi bật ở địa phương em là gì?",
+    "correct_answer": "Đền Ngọc Sơn",
+    "incorrect_answers": [
+      "Tháp Eiffel",
+      "Tượng Nữ thần Tự do",
+      "Nhà thờ Đức Bà"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "58",
+    "question": "Trường em được thành lập vào thời gian nào?",
+    "correct_answer": "Năm 1954",
+    "incorrect_answers": [
+      "Năm 2000",
+      "Năm 1975",
+      "Năm 1980"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "59",
+    "question": "Trường em thay đổi như thế nào theo thời gian?",
+    "correct_answer": "Từ một dãy phòng học nhỏ thành một khuôn viên rộng lớn với nhiều cơ sở vật chất hiện đại",
+    "incorrect_answers": [
+      "Từ trường tiểu học thành trường trung học",
+      "Từ trường công lập thành trường tư thục",
+      "Từ trường nữ sinh thành trường nam sinh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "60",
+    "question": "Cửa Bắc thuộc thành phố nào?",
+    "correct_answer": "Hà Nội",
+    "incorrect_answers": [
+      "Thành phố Hồ Chí Minh",
+      "Đà Nẵng",
+      "Hải Phòng"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "61",
+    "question": "Cửa Bắc nằm trên phố nào của Hà Nội?",
+    "correct_answer": "Phố Phan Đình Phùng",
+    "incorrect_answers": [
+      "Phố Tràng Tiền",
+      "Phố Hàng Ngang",
+      "Phố Lý Thái Tổ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "62",
+    "question": "Tại sao Cửa Bắc lại có dấu vết đạn pháo?",
+    "correct_answer": "Do chiến tranh giữa Việt Nam và Pháp năm 1882",
+    "incorrect_answers": [
+      "Do chiến tranh thế giới thứ hai",
+      "Do xây dựng và tu sửa",
+      "Do thiên tai và động đất"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "63",
+    "question": "Ý kiến của bạn về việc trùng tu lại mặt thành Cửa Bắc và xóa đi những vết đạn pháo?",
+    "correct_answer": "Không đồng ý vì những vết đạn pháo là chứng tích lịch sử quan trọng",
+    "incorrect_answers": [
+      "Đồng ý vì giữ được sự nguyên vẹn và an toàn",
+      "Đồng ý vì giúp công trình trở nên đẹp hơn",
+      "Không đồng ý vì không có lợi ích gì"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+    "section": "IV. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "64",
+    "question": "Bạn có biết Cửa Bắc còn được gọi là gì?",
+    "correct_answer": "Cửa Bắc",
+    "incorrect_answers": [
+      "Cửa Tây",
+      "Cửa Nam",
+      "Cửa Đông"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "65",
+    "question": "Âm lịch được tính dựa trên cơ sở nào?",
+    "correct_answer": "Chu kỳ Mặt Trăng quay quanh Trái Đất",
+    "incorrect_answers": [
+      "Chu kỳ Trái Đất quay quanh Mặt Trời",
+      "Chu kỳ các hành tinh",
+      "Chu kỳ của các vì sao"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "66",
+    "question": "Dương lịch được tính dựa trên cơ sở nào?",
+    "correct_answer": "Chu kỳ Trái Đất quay quanh Mặt Trời",
+    "incorrect_answers": [
+      "Chu kỳ Mặt Trăng quay quanh Trái Đất",
+      "Chu kỳ các hành tinh",
+      "Chu kỳ của các vì sao"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "67",
+    "question": "Một tháng âm lịch tương ứng với chu kỳ nào?",
+    "correct_answer": "Mặt Trăng quay quanh Trái Đất",
+    "incorrect_answers": [
+      "Trái Đất quay quanh Mặt Trời",
+      "Trái Đất quay quanh Mặt Trăng",
+      "Mặt Trăng quay quanh Mặt Trời"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "68",
+    "question": "Một năm dương lịch tương ứng với chu kỳ nào?",
+    "correct_answer": "Trái Đất quay quanh Mặt Trời",
+    "incorrect_answers": [
+      "Mặt Trăng quay quanh Trái Đất",
+      "Trái Đất quay quanh Mặt Trăng",
+      "Mặt Trời quay quanh Trái Đất"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "69",
+    "question": "Câu đồng dao 'Mười rằm trăng rọi/ Mười sáu trăng treo...' thể hiện cách tính thời gian theo lịch nào?",
+    "correct_answer": "Âm lịch",
+    "incorrect_answers": [
+      "Dương lịch",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "70",
+    "question": "Đồng hồ mặt trời dùng để làm gì?",
+    "correct_answer": "Đo thời gian dựa vào bóng nắng",
+    "incorrect_answers": [
+      "Đo thời gian dựa vào chuyển động của Mặt Trăng",
+      "Đo thời gian dựa vào chuyển động của các hành tinh",
+      "Đo thời gian dựa vào nhiệt độ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "71",
+    "question": "Thập kỷ gồm bao nhiêu năm?",
+    "correct_answer": "10 năm",
+    "incorrect_answers": [
+      "5 năm",
+      "50 năm",
+      "100 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "72",
+    "question": "Thế kỷ gồm bao nhiêu năm?",
+    "correct_answer": "100 năm",
+    "incorrect_answers": [
+      "50 năm",
+      "500 năm",
+      "1000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "73",
+    "question": "Thiên niên kỷ gồm bao nhiêu năm?",
+    "correct_answer": "1000 năm",
+    "incorrect_answers": [
+      "100 năm",
+      "500 năm",
+      "5000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "74",
+    "question": "Thời gian trước Công nguyên được tính từ thời điểm nào?",
+    "correct_answer": "Trước khi Chúa Jesus ra đời",
+    "incorrect_answers": [
+      "Sau khi Chúa Jesus ra đời",
+      "Trước khi Mặt Trăng xuất hiện",
+      "Sau khi Trái Đất hình thành"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "75",
+    "question": "Thời gian sau Công nguyên được tính từ thời điểm nào?",
+    "correct_answer": "Sau khi Chúa Jesus ra đời",
+    "incorrect_answers": [
+      "Trước khi Chúa Jesus ra đời",
+      "Trước khi Mặt Trăng xuất hiện",
+      "Sau khi Trái Đất hình thành"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "76",
+    "question": "Tại sao người xưa quan sát chuyển động của Mặt Trăng và Mặt Trời?",
+    "correct_answer": "Để sáng tạo ra lịch",
+    "incorrect_answers": [
+      "Để giải trí",
+      "Để nghiên cứu thiên văn",
+      "Để làm thơ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "77",
+    "question": "Một tháng âm lịch có bao nhiêu ngày?",
+    "correct_answer": "Khoảng 29-30 ngày",
+    "incorrect_answers": [
+      "31 ngày",
+      "28 ngày",
+      "32 ngày"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "78",
+    "question": "Một năm dương lịch có bao nhiêu ngày?",
+    "correct_answer": "365 hoặc 366 ngày",
+    "incorrect_answers": [
+      "360 ngày",
+      "350 ngày",
+      "370 ngày"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "79",
+    "question": "Chu kỳ quay của Mặt Trăng quanh Trái Đất gọi là gì?",
+    "correct_answer": "Tháng âm lịch",
+    "incorrect_answers": [
+      "Tháng dương lịch",
+      "Năm âm lịch",
+      "Năm dương lịch"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "80",
+    "question": "Chu kỳ quay của Trái Đất quanh Mặt Trời gọi là gì?",
+    "correct_answer": "Năm dương lịch",
+    "incorrect_answers": [
+      "Tháng âm lịch",
+      "Tháng dương lịch",
+      "Năm âm lịch"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "81",
+    "question": "Lịch âm dựa trên chu kỳ của thiên thể nào?",
+    "correct_answer": "Mặt Trăng",
+    "incorrect_answers": [
+      "Mặt Trời",
+      "Sao Hỏa",
+      "Sao Kim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "82",
+    "question": "Lịch dương dựa trên chu kỳ của thiên thể nào?",
+    "correct_answer": "Mặt Trời",
+    "incorrect_answers": [
+      "Mặt Trăng",
+      "Sao Hỏa",
+      "Sao Kim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "83",
+    "question": "Lịch nào thường được sử dụng để tính các ngày lễ truyền thống ở Việt Nam?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "I. ÂM LỊCH DƯƠNG LỊCH",
+    "category": "History",
+    "id": "84",
+    "question": "Lịch nào thường được sử dụng trong công việc hành chính và kinh doanh?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "85",
+    "question": "Trước Công nguyên là gì?",
+    "correct_answer": "Thời gian trước năm 1",
+    "incorrect_answers": [
+      "Thời gian sau năm 1",
+      "Thời gian hiện tại",
+      "Thời gian tương lai"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "86",
+    "question": "Công nguyên bắt đầu từ năm nào?",
+    "correct_answer": "Năm 1",
+    "incorrect_answers": [
+      "Năm 0",
+      "Năm 100",
+      "Năm 1000"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "87",
+    "question": "Một thập kỷ là bao nhiêu năm?",
+    "correct_answer": "10 năm",
+    "incorrect_answers": [
+      "5 năm",
+      "50 năm",
+      "100 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "88",
+    "question": "Một thế kỷ là bao nhiêu năm?",
+    "correct_answer": "100 năm",
+    "incorrect_answers": [
+      "50 năm",
+      "500 năm",
+      "1000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "89",
+    "question": "Một thiên niên kỷ là bao nhiêu năm?",
+    "correct_answer": "1000 năm",
+    "incorrect_answers": [
+      "100 năm",
+      "500 năm",
+      "5000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "90",
+    "question": "Công lịch lấy năm 1 là năm tương truyền ai ra đời?",
+    "correct_answer": "Chúa Jesus",
+    "incorrect_answers": [
+      "Phật Thích Ca",
+      "Khổng Tử",
+      "Muhammad"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "91",
+    "question": "Lịch chính thức của thế giới hiện nay dựa theo cách tính thời gian nào?",
+    "correct_answer": "Dương lịch",
+    "incorrect_answers": [
+      "Âm lịch",
+      "Lịch mặt trăng",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "92",
+    "question": "Hiện nay, Công lịch được sử dụng chính thức ở đâu?",
+    "correct_answer": "Trong văn bản của nhà nước",
+    "incorrect_answers": [
+      "Trong các bài hát",
+      "Trong các bộ phim",
+      "Trong các trò chơi"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "93",
+    "question": "Âm lịch dựa trên chu kỳ của thiên thể nào?",
+    "correct_answer": "Mặt Trăng",
+    "incorrect_answers": [
+      "Mặt Trời",
+      "Sao Hỏa",
+      "Sao Kim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "94",
+    "question": "Dương lịch dựa trên chu kỳ của thiên thể nào?",
+    "correct_answer": "Mặt Trời",
+    "incorrect_answers": [
+      "Mặt Trăng",
+      "Sao Hỏa",
+      "Sao Kim"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "95",
+    "question": "Ngày Giỗ Tổ Hùng Vương được tính theo loại lịch nào?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "96",
+    "question": "Ngày Quốc khánh Việt Nam được tính theo loại lịch nào?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "97",
+    "question": "Tết Nguyên đán ở Việt Nam được tính theo loại lịch nào?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "98",
+    "question": "Ngày Giải phóng miền Nam, thống nhất đất nước được tính theo loại lịch nào?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "99",
+    "question": "Tại sao trên tờ lịch của chúng ta có ghi thêm ngày, tháng, năm âm lịch?",
+    "correct_answer": "Để thuận tiện cho các hoạt động văn hóa truyền thống",
+    "incorrect_answers": [
+      "Để thêm phần đẹp mắt",
+      "Để làm cho tờ lịch to hơn",
+      "Để học sinh dễ học hơn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "100",
+    "question": "Có nên chỉ ghi một loại lịch là dương lịch không? Tại sao?",
+    "correct_answer": "Không, vì âm lịch cần thiết cho các ngày lễ truyền thống",
+    "incorrect_answers": [
+      "Có, vì dương lịch dễ sử dụng hơn",
+      "Không, vì dương lịch không quan trọng",
+      "Có, vì âm lịch khó hiểu"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "101",
+    "question": "Một năm dương lịch có bao nhiêu ngày?",
+    "correct_answer": "365 hoặc 366 ngày",
+    "incorrect_answers": [
+      "360 ngày",
+      "370 ngày",
+      "380 ngày"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "102",
+    "question": "Một năm âm lịch có bao nhiêu tháng?",
+    "correct_answer": "12 hoặc 13 tháng",
+    "incorrect_answers": [
+      "10 hoặc 11 tháng",
+      "11 hoặc 12 tháng",
+      "13 hoặc 14 tháng"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "103",
+    "question": "Thời gian trước Công nguyên được viết tắt là gì?",
+    "correct_answer": "TCN",
+    "incorrect_answers": [
+      "SCN",
+      "ACN",
+      "PCN"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "II. CÁCH TÍNH THỜI GIAN",
+    "category": "History",
+    "id": "104",
+    "question": "Thời gian sau Công nguyên được viết tắt là gì?",
+    "correct_answer": "SCN",
+    "incorrect_answers": [
+      "TCN",
+      "ACN",
+      "PCN"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "105",
+    "question": "Ngày Giỗ Tổ Hùng Vương được tính theo loại lịch nào?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "106",
+    "question": "Ngày Quốc khánh Việt Nam được tính theo loại lịch nào?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "107",
+    "question": "Tết Nguyên đán ở Việt Nam được tính theo loại lịch nào?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "108",
+    "question": "Ngày Giải phóng miền Nam, thống nhất đất nước được tính theo loại lịch nào?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "109",
+    "question": "Tại sao trên tờ lịch của chúng ta có ghi thêm ngày, tháng, năm âm lịch?",
+    "correct_answer": "Để thuận tiện cho các hoạt động văn hóa truyền thống",
+    "incorrect_answers": [
+      "Để thêm phần đẹp mắt",
+      "Để làm cho tờ lịch to hơn",
+      "Để học sinh dễ học hơn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "110",
+    "question": "Có nên chỉ ghi một loại lịch là dương lịch không? Tại sao?",
+    "correct_answer": "Không, vì âm lịch cần thiết cho các ngày lễ truyền thống",
+    "incorrect_answers": [
+      "Có, vì dương lịch dễ sử dụng hơn",
+      "Không, vì dương lịch không quan trọng",
+      "Có, vì âm lịch khó hiểu"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "111",
+    "question": "Công nguyên là gì?",
+    "correct_answer": "Thời gian bắt đầu từ năm 1",
+    "incorrect_answers": [
+      "Thời gian trước năm 1",
+      "Thời gian hiện tại",
+      "Thời gian tương lai"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "112",
+    "question": "Trước Công nguyên là gì?",
+    "correct_answer": "Thời gian trước năm 1",
+    "incorrect_answers": [
+      "Thời gian sau năm 1",
+      "Thời gian hiện tại",
+      "Thời gian tương lai"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "113",
+    "question": "Một thập kỷ là bao nhiêu năm?",
+    "correct_answer": "10 năm",
+    "incorrect_answers": [
+      "5 năm",
+      "50 năm",
+      "100 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "114",
+    "question": "Một thế kỷ là bao nhiêu năm?",
+    "correct_answer": "100 năm",
+    "incorrect_answers": [
+      "50 năm",
+      "500 năm",
+      "1000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "115",
+    "question": "Tại sao cần thiết phải học môn Lịch sử?",
+    "correct_answer": "Để hiểu biết về quá khứ và rút ra bài học cho tương lai",
+    "incorrect_answers": [
+      "Để giải trí",
+      "Để trở thành nhà văn",
+      "Để biết về các loài động vật"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "116",
+    "question": "Căn cứ vào đâu để biết và dựng lại lịch sử?",
+    "correct_answer": "Các nguồn sử liệu như tư liệu truyền miệng, tư liệu hiện vật, tư liệu chữ viết",
+    "incorrect_answers": [
+      "Truyền thuyết và thần thoại",
+      "Các câu chuyện cổ tích",
+      "Các bài hát và thơ ca"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "117",
+    "question": "Di tích lịch sử là gì?",
+    "correct_answer": "Các công trình kiến trúc, tác phẩm nghệ thuật, và hiện vật của người xưa",
+    "incorrect_answers": [
+      "Các phim ảnh và âm nhạc",
+      "Các bài hát và thơ ca",
+      "Các truyện cổ tích"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "118",
+    "question": "Lịch sử ngôi trường em đang học có thể bao gồm những thông tin nào?",
+    "correct_answer": "Ngày thành lập, những thay đổi theo thời gian, các sự kiện quan trọng",
+    "incorrect_answers": [
+      "Các môn học trong trường",
+      "Các hoạt động ngoại khóa",
+      "Các bài hát và thơ ca của học sinh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "119",
+    "question": "Tại sao có ý kiến cho rằng nên trùng tu lại mặt thành Cửa Bắc?",
+    "correct_answer": "Để xóa đi những vết đạn pháo của thực dân Pháp",
+    "incorrect_answers": [
+      "Để làm đẹp hơn cho công trình",
+      "Để thu hút khách du lịch",
+      "Để bảo tồn nguyên trạng lịch sử"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "120",
+    "question": "Em có đồng ý với ý kiến nên trùng tu lại mặt thành Cửa Bắc không? Tại sao?",
+    "correct_answer": "Không, vì những vết đạn pháo là chứng tích lịch sử quan trọng",
+    "incorrect_answers": [
+      "Có, vì làm đẹp hơn cho công trình",
+      "Không, vì không cần thiết",
+      "Có, vì thu hút khách du lịch"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "121",
+    "question": "Các nguồn sử liệu chính để dựng lại lịch sử bao gồm những gì?",
+    "correct_answer": "Tư liệu truyền miệng, tư liệu hiện vật, tư liệu chữ viết",
+    "incorrect_answers": [
+      "Sách giáo khoa và bài báo",
+      "Phim ảnh và âm nhạc",
+      "Bài hát và thơ ca"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "122",
+    "question": "Một trong những sự kiện lịch sử quan trọng liên quan đến di tích Cửa Bắc là gì?",
+    "correct_answer": "Cuộc tấn công của thực dân Pháp vào năm 1882",
+    "incorrect_answers": [
+      "Sự thành lập của Hà Nội",
+      "Lễ hội truyền thống hàng năm",
+      "Cuộc kháng chiến chống Mỹ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "123",
+    "question": "Môn Lịch sử giúp chúng ta làm gì?",
+    "correct_answer": "Hiểu rõ về quá khứ và đúc kết bài học cho tương lai",
+    "incorrect_answers": [
+      "Giải trí và thư giãn",
+      "Học tập các môn học khác",
+      "Phát triển kỹ năng nghệ thuật"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "124",
+    "question": "Việc học lịch sử có ý nghĩa gì đối với hiện tại và tương lai?",
+    "correct_answer": "Giúp đúc kết kinh nghiệm từ quá khứ để phục vụ cho hiện tại và tương lai",
+    "incorrect_answers": [
+      "Giúp giải trí và thư giãn",
+      "Giúp học tập các môn học khác",
+      "Giúp phát triển kỹ năng nghệ thuật"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "125",
+    "question": "Di tích lịch sử có vai trò gì trong việc học lịch sử?",
+    "correct_answer": "Là bằng chứng vật chất giúp dựng lại lịch sử",
+    "incorrect_answers": [
+      "Là nguồn giải trí",
+      "Là nguồn cảm hứng nghệ thuật",
+      "Là nguồn tin tức thời sự"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "126",
+    "question": "Trùng tu các công trình kiến trúc cổ có ý nghĩa gì?",
+    "correct_answer": "Bảo tồn và duy trì các chứng tích lịch sử",
+    "incorrect_answers": [
+      "Làm đẹp hơn cho công trình",
+      "Thu hút khách du lịch",
+      "Cải thiện cơ sở hạ tầng"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "127",
+    "question": "Việc giữ nguyên các vết đạn pháo trên Cửa Bắc có ý nghĩa gì?",
+    "correct_answer": "Là chứng tích lịch sử quan trọng",
+    "incorrect_answers": [
+      "Làm xấu đi công trình",
+      "Thu hút khách du lịch",
+      "Cải thiện kiến trúc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "128",
+    "question": "Ngày Giỗ Tổ Hùng Vương được tính theo loại lịch nào?",
+    "correct_answer": "Lịch âm",
+    "incorrect_answers": [
+      "Lịch dương",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "129",
+    "question": "Ngày Quốc khánh Việt Nam được tính theo loại lịch nào?",
+    "correct_answer": "Lịch dương",
+    "incorrect_answers": [
+      "Lịch âm",
+      "Lịch vạn niên",
+      "Lịch thiên văn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "130",
+    "question": "Tại sao cần bảo tồn các di tích lịch sử?",
+    "correct_answer": "Để duy trì chứng tích lịch sử và giáo dục thế hệ sau",
+    "incorrect_answers": [
+      "Để làm đẹp hơn cho công trình",
+      "Để thu hút khách du lịch",
+      "Để cải thiện cơ sở hạ tầng"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "131",
+    "question": "Học lịch sử giúp chúng ta nhận thức được điều gì?",
+    "correct_answer": "Tầm quan trọng của quá khứ",
+    "incorrect_answers": [
+      "Sự phát triển của công nghệ",
+      "Các xu hướng thời trang",
+      "Các môn thể thao"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "132",
+    "question": "Lịch sử ngôi trường em đang học có thể bao gồm thông tin nào?",
+    "correct_answer": "Ngày thành lập, những thay đổi theo thời gian, các sự kiện quan trọng",
+    "incorrect_answers": [
+      "Các môn học trong trường",
+      "Các hoạt động ngoại khóa",
+      "Các bài hát và thơ ca của học sinh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "133",
+    "question": "Việc học lịch sử giúp chúng ta làm gì trong cuộc sống hàng ngày?",
+    "correct_answer": "Áp dụng các bài học từ quá khứ để cải thiện cuộc sống hiện tại",
+    "incorrect_answers": [
+      "Hiểu rõ hơn về các phong trào nghệ thuật",
+      "Hiểu rõ hơn về các ngôn ngữ mới",
+      "Hiểu rõ hơn về các phát minh khoa học"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG 1: TẠI SAO CẦN HỌC MÔN LỊCH SỬ",
+    "lesson": "BÀI 2: THỜI GIAN TRONG LỊCH SỬ",
+    "section": "III. LUYỆN TẬP VẬN DỤNG",
+    "category": "History",
+    "id": "134",
+    "question": "Tại sao có ý kiến nên trùng tu lại mặt thành Cửa Bắc?",
+    "correct_answer": "Để xóa đi những vết đạn pháo của thực dân Pháp",
+    "incorrect_answers": [
+      "Để làm đẹp hơn cho công trình",
+      "Để thu hút khách du lịch",
+      "Để bảo tồn nguyên trạng lịch sử"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "135",
+    "question": "Quá trình tiến hóa từ Vượn người thành người diễn ra như thế nào?",
+    "correct_answer": "Qua nhiều giai đoạn tiến hóa và thay đổi môi trường sống",
+    "incorrect_answers": [
+      "Ngay lập tức",
+      "Không có sự thay đổi",
+      "Chỉ trong vài năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "136",
+    "question": "Khoảng bao nhiêu năm trước, Vượn người đã xuất hiện?",
+    "correct_answer": "6 triệu đến 5 triệu năm trước",
+    "incorrect_answers": [
+      "10 triệu năm trước",
+      "1 triệu năm trước",
+      "100 ngàn năm trước"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "137",
+    "question": "Vượn người đã tiến hóa thành Người tối cổ như thế nào?",
+    "correct_answer": "Biết ghè đẽo đá làm công cụ lao động, đứng thẳng, đi bằng hai chân",
+    "incorrect_answers": [
+      "Vẫn sống trên cây, không có sự thay đổi",
+      "Biết bay",
+      "Biết bơi"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "138",
+    "question": "Đặc điểm nào cho thấy sự tiến hóa của Người tối cổ so với Vượn người?",
+    "correct_answer": "Khả năng đứng thẳng, đi bằng hai chân, thể tích não lớn hơn",
+    "incorrect_answers": [
+      "Cơ thể nhỏ hơn, yếu hơn",
+      "Sống dưới nước",
+      "Không có sự thay đổi"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "139",
+    "question": "Người tối cổ sinh sống như thế nào?",
+    "correct_answer": "Thành nhiều nhóm, tồn tại trong những môi trường sống khác nhau",
+    "incorrect_answers": [
+      "Sống đơn lẻ",
+      "Sống dưới nước",
+      "Sống trên cây"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "140",
+    "question": "Người tối cổ xuất hiện đầu tiên ở đâu?",
+    "correct_answer": "Châu Phi",
+    "incorrect_answers": [
+      "Châu Á",
+      "Châu Âu",
+      "Châu Mỹ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "141",
+    "question": "Nhóm 'Người đứng thẳng' được tìm thấy ở đâu?",
+    "correct_answer": "Đông Nam Á và nhiều nơi trên thế giới",
+    "incorrect_answers": [
+      "Châu Úc",
+      "Nam Cực",
+      "Bắc Cực"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "142",
+    "question": "Người tinh khôn xuất hiện khoảng bao nhiêu năm trước?",
+    "correct_answer": "150,000 năm trước",
+    "incorrect_answers": [
+      "1 triệu năm trước",
+      "6 triệu năm trước",
+      "100 ngàn năm trước"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "143",
+    "question": "Đặc điểm nào cho thấy sự khác biệt của Người tinh khôn so với Người tối cổ?",
+    "correct_answer": "Bộ não lớn hơn, cấu tạo cơ thể giống người ngày nay",
+    "incorrect_answers": [
+      "Cơ thể nhỏ hơn",
+      "Sống trên cây",
+      "Không có sự khác biệt"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "144",
+    "question": "Sự xuất hiện của Người tinh khôn đánh dấu điều gì?",
+    "correct_answer": "Quá trình chuyển biến từ Vượn người thành người đã hoàn thành",
+    "incorrect_answers": [
+      "Bắt đầu của thời kỳ mới",
+      "Sự kết thúc của loài người",
+      "Sự xuất hiện của các loài động vật mới"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "145",
+    "question": "Người tối cổ biết sử dụng công cụ lao động nào?",
+    "correct_answer": "Ghè đẽo đá",
+    "incorrect_answers": [
+      "Sử dụng kim loại",
+      "Sử dụng nhựa",
+      "Sử dụng gỗ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "146",
+    "question": "Người tinh khôn còn được gọi là gì?",
+    "correct_answer": "Người hiện đại",
+    "incorrect_answers": [
+      "Người cổ đại",
+      "Vượn người",
+      "Người tương lai"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "147",
+    "question": "Điểm khác biệt cơ bản giữa Người tinh khôn và Người tối cổ là gì?",
+    "correct_answer": "Bộ não lớn hơn và cấu tạo cơ thể giống người ngày nay",
+    "incorrect_answers": [
+      "Kích thước nhỏ hơn",
+      "Sống trên cây",
+      "Không có sự khác biệt"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "148",
+    "question": "Người tối cổ đã di cư đến đâu từ châu Phi?",
+    "correct_answer": "Hầu hết các châu lục",
+    "incorrect_answers": [
+      "Chỉ ở châu Phi",
+      "Chỉ ở châu Á",
+      "Chỉ ở châu Âu"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "149",
+    "question": "Người tinh khôn xuất hiện đã ảnh hưởng thế nào đến sự tiến hóa của loài người?",
+    "correct_answer": "Đánh dấu sự hoàn thành của quá trình tiến hóa",
+    "incorrect_answers": [
+      "Không có ảnh hưởng",
+      "Làm chậm quá trình tiến hóa",
+      "Làm giảm số lượng loài người"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "150",
+    "question": "Công cụ lao động đầu tiên mà Người tối cổ sử dụng là gì?",
+    "correct_answer": "Đá",
+    "incorrect_answers": [
+      "Sắt",
+      "Đồng",
+      "Nhựa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "151",
+    "question": "Người tối cổ đã sống trong những môi trường nào?",
+    "correct_answer": "Nhiều môi trường sống khác nhau",
+    "incorrect_answers": [
+      "Chỉ sống trên cây",
+      "Chỉ sống dưới nước",
+      "Chỉ sống ở hang động"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "152",
+    "question": "Người tinh khôn có đặc điểm gì nổi bật?",
+    "correct_answer": "Bộ não lớn và cấu tạo cơ thể giống người ngày nay",
+    "incorrect_answers": [
+      "Cơ thể nhỏ hơn",
+      "Sống trên cây",
+      "Không có sự khác biệt so với Người tối cổ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "153",
+    "question": "Người tối cổ đã sinh sống thành các nhóm nhỏ hay đơn lẻ?",
+    "correct_answer": "Thành nhiều nhóm",
+    "incorrect_answers": [
+      "Đơn lẻ",
+      "Chỉ sống một mình",
+      "Sống trong gia đình lớn"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "I. QUÁ TRÌNH TIẾN HÓA TỪ VƯỢN NGƯỜI THÀNH NGƯỜI",
+    "category": "History",
+    "id": "154",
+    "question": "Người tinh khôn đã xuất hiện ở khu vực nào đầu tiên?",
+    "correct_answer": "Châu Phi",
+    "incorrect_answers": [
+      "Châu Á",
+      "Châu Âu",
+      "Châu Mỹ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "155",
+    "question": "Địa điểm đầu tiên tìm thấy hóa thạch Người tối cổ ở Đông Nam Á là ở đâu?",
+    "correct_answer": "Đảo Java (Indonesia)",
+    "incorrect_answers": [
+      "Núi Đọ (Thanh Hóa)",
+      "Xuân Lộc (Đồng Nai)",
+      "An Khê (Gia Lai)"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "156",
+    "question": "Những công cụ đá ghè đẽo thô sơ của Người tối cổ được tìm thấy ở Việt Nam gồm những địa điểm nào?",
+    "correct_answer": "Núi Đọ (Thanh Hóa), Xuân Lộc (Đồng Nai), An Khê (Gia Lai)",
+    "incorrect_answers": [
+      "Hà Nội, Hải Phòng, Đà Nẵng",
+      "Thành phố Hồ Chí Minh, Cần Thơ, Vũng Tàu",
+      "Lạng Sơn, Quảng Ninh, Thái Nguyên"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "157",
+    "question": "Dấu tích của Người tối cổ được tìm thấy ở hang Thẩm Khuyên, Thẩm Hai (Lạng Sơn) là gì?",
+    "correct_answer": "Những chiếc răng Người tối cổ",
+    "incorrect_answers": [
+      "Các công cụ lao động",
+      "Các bức tranh cổ",
+      "Các bộ xương hoàn chỉnh"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "158",
+    "question": "Hóa thạch Người tối cổ ở Đông Nam Á cho thấy gì về thời gian xuất hiện của họ?",
+    "correct_answer": "Xuất hiện từ rất sớm",
+    "incorrect_answers": [
+      "Xuất hiện muộn hơn các nơi khác",
+      "Không có sự khác biệt về thời gian",
+      "Xuất hiện đồng thời với các loài động vật khác"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "159",
+    "question": "Công cụ thô sơ của Người tối cổ ở An Khê (Gia Lai) có niên đại khoảng bao nhiêu năm?",
+    "correct_answer": "800,000 năm",
+    "incorrect_answers": [
+      "400,000 năm",
+      "500,000 năm",
+      "600,000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "160",
+    "question": "Những địa điểm nào ở Việt Nam đã phát hiện dấu tích của Người tối cổ?",
+    "correct_answer": "Núi Đọ (Thanh Hóa), Xuân Lộc (Đồng Nai), An Khê (Gia Lai), Thẩm Khuyên và Thẩm Hai (Lạng Sơn)",
+    "incorrect_answers": [
+      "Hà Nội, Hải Phòng, Đà Nẵng",
+      "Thành phố Hồ Chí Minh, Cần Thơ, Vũng Tàu",
+      "Lạng Sơn, Quảng Ninh, Thái Nguyên"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "161",
+    "question": "Bằng chứng khoa học nào chứng tỏ Đông Nam Á là nơi có con người xuất hiện từ sớm?",
+    "correct_answer": "Hóa thạch và công cụ lao động của Người tối cổ",
+    "incorrect_answers": [
+      "Các bức tranh cổ",
+      "Các bộ xương hoàn chỉnh",
+      "Các tàn tích văn hóa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "162",
+    "question": "Nhận xét phạm vi phân bố dấu tích Người tối cổ ở Việt Nam là gì?",
+    "correct_answer": "Rộng khắp từ miền núi đến đồng bằng",
+    "incorrect_answers": [
+      "Chỉ tập trung ở vùng đồng bằng",
+      "Chỉ tập trung ở vùng ven biển",
+      "Chỉ tập trung ở miền núi"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "163",
+    "question": "Người tối cổ ở Đông Nam Á có khả năng gì đặc biệt trong việc di chuyển và sinh sống?",
+    "correct_answer": "Di chuyển và sinh sống ở nhiều môi trường khác nhau",
+    "incorrect_answers": [
+      "Chỉ sống ở vùng núi cao",
+      "Chỉ sống ở vùng ven biển",
+      "Không di chuyển, chỉ sống cố định"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "II. DẤU TÍCH CỦA NGƯỜI TỐI CỔ Ở ĐÔNG NAM Á",
+    "category": "History",
+    "id": "164",
+    "question": "Những di tích của Người tối cổ ở Đông Nam Á cho thấy điều gì về sự tiến hóa của loài người?",
+    "correct_answer": "Quá trình tiến hóa sớm và có sự đa dạng về môi trường sống",
+    "incorrect_answers": [
+      "Quá trình tiến hóa muộn và chậm",
+      "Không có sự tiến hóa",
+      "Chỉ tiến hóa ở một môi trường sống cụ thể"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "III. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "165",
+    "question": "Bằng chứng khoa học nào chứng tỏ Đông Nam Á là nơi có con người xuất hiện từ sớm?",
+    "correct_answer": "Các di chỉ khảo cổ học về xương và hóa thạch người tối cổ",
+    "incorrect_answers": [
+      "Các công cụ lao động bằng đá được tìm thấy",
+      "Các bức tranh hang động",
+      "Các văn bản cổ xưa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "III. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "166",
+    "question": "Quốc gia nào ở Đông Nam Á có di tích Người tối cổ ở địa điểm núi Đọ?",
+    "correct_answer": "Việt Nam",
+    "incorrect_answers": [
+      "Indonesia",
+      "Thái Lan",
+      "Malaysia"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "III. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "167",
+    "question": "Tên địa điểm nào ở Indonesia được biết đến với dấu tích của Người tối cổ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Núi Đọ",
+      "Hang Thẩm Khuyên",
+      "An Khê"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "III. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "168",
+    "question": "Tên quốc gia và địa điểm nào sau đây ở Việt Nam tìm thấy dấu tích của Người tối cổ?",
+    "correct_answer": "Việt Nam - Núi Đọ",
+    "incorrect_answers": [
+      "Malaysia - Hang Thẩm Khuyên",
+      "Indonesia - Java",
+      "Thái Lan - An Khê"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 3: NGUỒN GỐC LOÀI NGƯỜI",
+    "section": "III. LUYỆN TẬP - VẬN DỤNG",
+    "category": "History",
+    "id": "169",
+    "question": "Liệu người châu Phi, châu Á và châu Âu có chung một nguồn gốc hay không?",
+    "correct_answer": "Có, họ có chung một nguồn gốc",
+    "incorrect_answers": [
+      "Không, họ có nguồn gốc khác nhau",
+      "Không có thông tin để xác định",
+      "Không, chỉ người châu Á và châu Âu có chung nguồn gốc"
+    ]
+  },{
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "170",
+    "question": "Xã hội nguyên thủy kéo dài bao lâu?",
+    "correct_answer": "Hàng triệu năm",
+    "incorrect_answers": [
+      "Hàng nghìn năm",
+      "Hàng trăm năm",
+      "Hàng chục năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "171",
+    "question": "Trong xã hội nguyên thủy, con người sống như thế nào?",
+    "correct_answer": "Ăn chung, ở chung và giúp đỡ lẫn nhau",
+    "incorrect_answers": [
+      "Sống đơn lẻ, tự cung tự cấp",
+      "Sống ở đô thị, phát triển công nghệ",
+      "Sống ở nông thôn, phát triển nông nghiệp"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "172",
+    "question": "Bầy người nguyên thủy gồm những ai?",
+    "correct_answer": "Vài gia đình sinh sống cùng nhau",
+    "incorrect_answers": [
+      "Một gia đình đơn lẻ",
+      "Một nhóm bạn bè",
+      "Một nhóm người lạ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "173",
+    "question": "Bầy người nguyên thủy có sự phân công lao động như thế nào?",
+    "correct_answer": "Giữa nam và nữ",
+    "incorrect_answers": [
+      "Giữa người già và trẻ em",
+      "Giữa các bộ lạc",
+      "Giữa các thị tộc"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "174",
+    "question": "Công xã thị tộc gồm những ai?",
+    "correct_answer": "Các gia đình có quan hệ huyết thống sinh sống cùng nhau",
+    "incorrect_answers": [
+      "Một nhóm bạn bè",
+      "Một nhóm người lạ",
+      "Một gia đình đơn lẻ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "175",
+    "question": "Đứng đầu công xã thị tộc là ai?",
+    "correct_answer": "Tộc trưởng",
+    "incorrect_answers": [
+      "Trưởng làng",
+      "Thủ lĩnh quân đội",
+      "Vua"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "176",
+    "question": "Nhiều thị tộc sống cạnh nhau, có quan hệ họ hàng và gắn bó với nhau hợp thành gì?",
+    "correct_answer": "Bộ lạc",
+    "incorrect_answers": [
+      "Quốc gia",
+      "Thành phố",
+      "Đế chế"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "177",
+    "question": "Trong xã hội nguyên thủy, con người lệ thuộc nhiều vào gì?",
+    "correct_answer": "Tự nhiên",
+    "incorrect_answers": [
+      "Công nghệ",
+      "Khoa học",
+      "Kinh tế"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "178",
+    "question": "Các gia đình trong công xã thị tộc có mối quan hệ như thế nào?",
+    "correct_answer": "Quan hệ huyết thống",
+    "incorrect_answers": [
+      "Quan hệ bạn bè",
+      "Quan hệ làm ăn",
+      "Quan hệ học tập"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "I. CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA XÃ HỘI NGUYÊN THỦY",
+    "category": "History",
+    "id": "179",
+    "question": "Các giai đoạn tiến triển của xã hội nguyên thủy bao gồm những gì?",
+    "correct_answer": "Bầy người nguyên thủy và công xã thị tộc",
+    "incorrect_answers": [
+      "Thời kỳ hiện đại và trung đại",
+      "Thời kỳ đồ đồng và đồ sắt",
+      "Thời kỳ đô thị hóa và công nghiệp hóa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "180",
+    "question": "Vai trò của lao động trong quá trình tiến hóa của người nguyên thủy là gì?",
+    "correct_answer": "Giúp phát triển trí tuệ và kỹ năng",
+    "incorrect_answers": [
+      "Giúp giải trí và thư giãn",
+      "Giúp phát triển nghệ thuật",
+      "Giúp phát triển nông nghiệp"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "181",
+    "question": "Những công cụ lao động đầu tiên của người nguyên thủy là gì?",
+    "correct_answer": "Rìu tay, mảnh tước",
+    "incorrect_answers": [
+      "Búa sắt, cuốc đất",
+      "Dao kéo, dụng cụ nhà bếp",
+      "Cung tên, lao"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "182",
+    "question": "Công cụ rìu tay Tanzania có niên đại bao nhiêu năm?",
+    "correct_answer": "1.4 triệu năm",
+    "incorrect_answers": [
+      "1 triệu năm",
+      "400,000 năm",
+      "200,000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "183",
+    "question": "Người nguyên thủy sử dụng công cụ lao động ban đầu như thế nào?",
+    "correct_answer": "Sử dụng những mẩu đá vừa vặn cầm tay",
+    "incorrect_answers": [
+      "Sử dụng kim loại",
+      "Sử dụng gỗ",
+      "Sử dụng tre"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "184",
+    "question": "Người tối cổ biết tạo ra lửa để làm gì?",
+    "correct_answer": "Sưởi ấm và nướng thức ăn",
+    "incorrect_answers": [
+      "Làm đẹp",
+      "Làm ánh sáng",
+      "Chơi đùa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "185",
+    "question": "Những công cụ đá của Người tối cổ được tìm thấy ở đâu tại Việt Nam?",
+    "correct_answer": "An Khê (Gia Lai), núi Đọ (Thanh Hóa)",
+    "incorrect_answers": [
+      "Hà Nội, Hải Phòng",
+      "Đà Nẵng, Quảng Nam",
+      "Cần Thơ, Hậu Giang"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "186",
+    "question": "Công cụ rìu tay và mảnh tước ở núi Đọ (Thanh Hóa) có niên đại bao nhiêu năm?",
+    "correct_answer": "400,000 năm",
+    "incorrect_answers": [
+      "1 triệu năm",
+      "600,000 năm",
+      "800,000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "187",
+    "question": "Người tinh khôn tiến bộ hơn Người tối cổ ở điểm nào?",
+    "correct_answer": "Biết mài đá để tạo ra công cụ lao động, sử dụng lao, cung tên",
+    "incorrect_answers": [
+      "Biết nấu ăn",
+      "Biết làm đẹp",
+      "Biết hát"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "188",
+    "question": "Công cụ đá mài của văn hóa Bắc Sơn có niên đại bao nhiêu năm?",
+    "correct_answer": "11,000 năm",
+    "incorrect_answers": [
+      "1,000 năm",
+      "5,000 năm",
+      "3,000 năm"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "189",
+    "question": "Công cụ lao động đầu tiên mà Người tối cổ sử dụng là gì?",
+    "correct_answer": "Rìu tay, mảnh tước",
+    "incorrect_answers": [
+      "Sắt",
+      "Đồng",
+      "Nhựa"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "190",
+    "question": "Vai trò của đàn ông trong đời sống của người nguyên thủy là gì?",
+    "correct_answer": "Săn bắt thú rừng",
+    "incorrect_answers": [
+      "Hái lượm các loại hạt, quả",
+      "Chăm sóc trẻ em",
+      "Làm công việc nhà"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "191",
+    "question": "Phụ nữ và trẻ em trong xã hội nguyên thủy thường làm gì?",
+    "correct_answer": "Hái lượm các loại hạt, quả",
+    "incorrect_answers": [
+      "Săn bắt thú rừng",
+      "Xây dựng nhà cửa",
+      "Chế tạo công cụ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "192",
+    "question": "Người nguyên thủy đã biết làm gì để bắt đầu đời sống định cư?",
+    "correct_answer": "Trồng trọt, chăn nuôi và thuần dưỡng động vật",
+    "incorrect_answers": [
+      "Săn bắt và hái lượm",
+      "Xây dựng nhà máy",
+      "Chế tạo công cụ kim loại"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "193",
+    "question": "Dấu tích của nền nông nghiệp sơ khai ở Việt Nam được tìm thấy ở đâu?",
+    "correct_answer": "Di chỉ văn hóa Hòa Bình",
+    "incorrect_answers": [
+      "Hà Nội",
+      "Hải Phòng",
+      "Đà Nẵng"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "194",
+    "question": "Những dấu tích nào cho thấy sự xuất hiện của nền nông nghiệp sơ khai ở Việt Nam?",
+    "correct_answer": "Hạt thóc, vỏ trấu, hạt gạo cháy, bàn nghiền hạt và chày",
+    "incorrect_answers": [
+      "Công cụ kim loại",
+      "Các tòa nhà lớn",
+      "Các bức tranh cổ"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "195",
+    "question": "Người nguyên thủy đã di chuyển từ khu rừng này đến khu rừng khác để làm gì?",
+    "correct_answer": "Tìm kiếm thức ăn",
+    "incorrect_answers": [
+      "Săn bắt thú rừng",
+      "Hái lượm các loại hạt, quả",
+      "Trồng trọt và chăn nuôi"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "196",
+    "question": "Các nhà khảo cổ học đã tìm thấy những dấu tích của người nguyên thủy ở đâu tại Việt Nam?",
+    "correct_answer": "Bàu Tró (Quảng Bình), Cái Bèo, Hạ Long (Quảng Ninh), Quỳnh Văn (Nghệ An)",
+    "incorrect_answers": [
+      "Hà Nội, Hải Phòng",
+      "Đà Nẵng, Quảng Nam",
+      "Cần Thơ, Hậu Giang"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "197",
+    "question": "Người nguyên thủy phát hiện ra điều gì từ hái lượm?",
+    "correct_answer": "Những hạt ngũ cốc, rau quả có thể trồng được",
+    "incorrect_answers": [
+      "Cách xây dựng nhà cửa",
+      "Cách chế tạo công cụ kim loại",
+      "Cách làm đẹp"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "198",
+    "question": "Công cụ lao động của người nguyên thủy dần được cải tiến như thế nào?",
+    "correct_answer": "Biết mài đá để tạo ra công cụ lao động, sử dụng lao, cung tên",
+    "incorrect_answers": [
+      "Biết nấu ăn",
+      "Biết làm đẹp",
+      "Biết hát"
+    ]
+  },
+  {
+    "chapter": "CHƯƠNG II: THỜI KÌ NGUYÊN THỦY",
+    "lesson": "BÀI 4: XÃ HỘI NGUYÊN THỦY",
+    "section": "II. ĐỜI SỐNG VẬT CHẤT CỦA NGƯỜI NGUYÊN THỦY",
+    "category": "History",
+    "id": "199",
+    "question": "Những dấu tích của người nguyên thủy cho thấy gì về quá trình phát triển của họ?",
+    "correct_answer": "Quá trình phát triển từ hái lượm, săn bắt đến trồng trọt, chăn nuôi và thuần dưỡng động vật",
+    "incorrect_answers": [
+      "Quá trình phát triển từ công nghiệp đến dịch vụ",
+      "Quá trình phát triển từ đô thị đến nông thôn",
+      "Quá trình phát triển từ nghệ thuật đến khoa học"
     ]
   }
   
+  
+  
+
+
+
+
+]
+}

@@ -1,23 +1,27 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter/widgets.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:hay_doc_app/api/api_services.dart';
+import 'package:hay_doc_app/screen/book/quiz_screen.dart';
 import 'package:hay_doc_app/screen/test_screen.dart';
 import 'package:progressive_image/progressive_image.dart';
 import 'package:hay_doc_app/screen/history_list/quiz.dart';
 
 import 'package:hay_doc_app/style.dart';
+import 'package:spring/spring.dart';
 
-import 'book/quiz_screen.dart';
-import 'quiz_screen2.dart';
+import 'book.dart';
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key});
+class HayDoc extends StatefulWidget {
+  const HayDoc({super.key});
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<HayDoc> createState() => _HayDocState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _HayDocState extends State<HayDoc> {
   @override
   void initState() {
     super.initState();
@@ -71,22 +75,22 @@ class _MyHomePageState extends State<MyHomePage> {
                       thumbnail:
                           const AssetImage("assets/images/placeholder.jpg"),
                       image: const NetworkImage(
-                        "http://idxxbg.xp3.biz/API/haydoc/images/tuduythucthi.jpg",
+                        "http://idxxbg.xp3.biz/API/haydoc/images/vldvcd.jpg",
                       ),
                       width: 500,
-                      height: screenH * 0.2,
+                      height: screenH * 0.3,
                     ),
                   ),
                 ),
               ),
               const SizedBox(height: 20),
-              const Text(
-                "wellcome to our",
-                style: TextStyle(color: lightgrey, fontSize: 20),
+              Text(
+                "wellcome to our".toUpperCase(),
+                style: const TextStyle(color: lightgrey, fontSize: 20),
               ),
-              const Text(
-                "QUY LUẬT THÀNH CÔNG",
-                style: TextStyle(
+              Text(
+                "hay doc".toUpperCase(),
+                style: const TextStyle(
                     color: Colors.white,
                     fontSize: 25,
                     fontWeight: FontWeight.bold),
@@ -97,25 +101,34 @@ class _MyHomePageState extends State<MyHomePage> {
                   shrinkWrap: true,
                   // mainAxisAlignment: MainAxisAlignment.end,
                   children: [
-                    GestureDetector(
+                    Spring.bubbleButton(
+                      animDuration: const Duration(seconds: 1),
+                      bubbleStart: 0.8,
+                      bubbleEnd: 1.0,
                       onTap: () {
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (_) => QuizScreen(),
-                          ),
-                        );
+                        HapticFeedback.lightImpact();
+                        Future.delayed(const Duration(milliseconds: 500), () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (_) => const Book(),
+                            ),
+                          );
+                        });
                       },
                       child: Container(
                         margin: const EdgeInsets.only(bottom: 25),
                         alignment: Alignment.center,
                         width: MediaQuery.of(context).size.width - 100,
-                        padding: const EdgeInsets.all(15),
+                        padding: const EdgeInsets.symmetric(
+                          vertical: 10,
+                          horizontal: 5,
+                        ),
                         decoration: BoxDecoration(
-                            color: Colors.white,
+                            color: Colors.white70,
                             borderRadius: BorderRadius.circular(25)),
                         child: Text(
-                          'The Book'.toUpperCase(),
+                          'sách'.toUpperCase(),
                           style: const TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,
@@ -124,25 +137,26 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                       ),
                     ),
-                    GestureDetector(
+                    Spring.bubbleButton(
+                      animDuration: const Duration(seconds: 1),
+                      bubbleStart: 0.8,
+                      bubbleEnd: 1.0,
                       onTap: () {
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (_) => const Quiz(),
-                          ),
-                        );
+                        HapticFeedback.lightImpact();
                       },
                       child: Container(
                         margin: const EdgeInsets.only(bottom: 25),
                         alignment: Alignment.center,
                         width: MediaQuery.of(context).size.width - 100,
-                        padding: const EdgeInsets.all(15),
+                        padding: const EdgeInsets.symmetric(
+                          vertical: 10,
+                          horizontal: 5,
+                        ),
                         decoration: BoxDecoration(
-                            color: Colors.white,
+                            color: Colors.white70,
                             borderRadius: BorderRadius.circular(25)),
                         child: Text(
-                          'Lịch sử lớp 6'.toUpperCase(),
+                          'reporter'.toUpperCase(),
                           style: const TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,

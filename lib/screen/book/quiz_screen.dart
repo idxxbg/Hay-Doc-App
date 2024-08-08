@@ -1,13 +1,10 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:glass/glass.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hay_doc_app/api/api_services.dart';
 import 'package:hay_doc_app/screen/result_screen.dart';
-// import 'package:hay_doc_app/services/api_services.dart';
-// import 'package:http/http.dart' as http;
 import 'package:hay_doc_app/style.dart';
 
 class QuizScreen extends StatefulWidget {
@@ -28,7 +25,6 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   void dispose() {
     super.dispose();
-    // startTimer().cancel();
     timer!.cancel();
   }
 
@@ -40,9 +36,9 @@ class _QuizScreenState extends State<QuizScreen> {
   List<dynamic> optionList = [];
   List<dynamic> listcorrectAnswer = [];
   List<dynamic> listincorrectAnswer = [];
+  TextEditingController idController = TextEditingController();
 
   String numberToAlphabet(int number) {
-    // Chuyển đổi số thành chữ cái, số 0 tương ứng với 'A'
     return String.fromCharCode(65 + number);
   }
 
@@ -57,7 +53,6 @@ class _QuizScreenState extends State<QuizScreen> {
     ];
   }
 
-// bắt đầu thời gian
   startTimer() {
     timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
@@ -70,39 +65,64 @@ class _QuizScreenState extends State<QuizScreen> {
     });
   }
 
-  // dừng thời gian
   void stopTimer() {
     if (timer != null && timer!.isActive) {
       timer!.cancel();
     }
   }
 
-  //chuyen sang cau tiep theo
   gotoNextQuestion() {
     setState(() {
       isLoading = false;
       resetColor();
-      currentIndexOfQuestion < 60 ? currentIndexOfQuestion++ : null;
+      currentIndexOfQuestion < 1000 ? currentIndexOfQuestion++ : null;
       timer!.cancel();
       seconds = 60;
       startTimer();
     });
   }
 
-  // ket thuc game
+  gotoQuestionById(int id, int maxId) {
+    if (id < 0 || id >= maxId) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text("ID không hợp lệ. Vui lòng nhập số từ 1 đến $maxId"),
+        ),
+      );
+    } else {
+      setState(() {
+        currentIndexOfQuestion = id;
+        isLoading = false;
+        resetColor();
+        timer!.cancel();
+        seconds = 60;
+        startTimer();
+      });
+    }
+  }
+
   endgame(dynamic data) {
     if (currentIndexOfQuestion < data.length - 1) {
       Future.delayed(const Duration(milliseconds: 200), () {
         gotoNextQuestion();
       });
     } else {
+      isLoading = false;
+      resetColor();
       timer!.cancel();
-      Navigator.push(
-          context,
-          MaterialPageRoute(
-              builder: (_) => ResultScreen(
-                  listcorrectAnswser: listcorrectAnswer,
-                  listincorrectAnswser: listincorrectAnswer)));
+      seconds = 60;
+      startTimer();
+
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(
+          builder: (_) => ResultScreen(
+            listcorrectAnswser: listcorrectAnswer,
+            listincorrectAnswser: listincorrectAnswer,
+            totalQuestion: currentIndexOfQuestion + 1,
+          ),
+        ),
+      );
     }
   }
 
@@ -132,8 +152,7 @@ class _QuizScreenState extends State<QuizScreen> {
               if (isLoading == false) {
                 optionList = data[currentIndexOfQuestion]['incorrect_answers'];
                 optionList.add(data[currentIndexOfQuestion]['correct_answer']);
-                optionList
-                    .shuffle(); // it makes the correct answer in differnt index
+                optionList.shuffle();
                 isLoading = true;
               }
 
@@ -179,15 +198,27 @@ class _QuizScreenState extends State<QuizScreen> {
                           ),
                         ],
                       ),
-                      // const SizedBox(height: 20),
-                      Center(
-                        child: Hero(
-                          tag: "image",
-                          child: ClipRRect(
-                            borderRadius: BorderRadius.circular(25),
-                            child: Image.asset(
-                              "assets/images/execution thinking.webp",
-                              width: 200,
+                      const SizedBox(height: 20),
+                      Container(
+                        decoration: BoxDecoration(
+                            borderRadius: BorderRadius.circular(25)),
+                        child: TextField(
+                          controller: idController,
+                          keyboardType: TextInputType.number,
+                          decoration: InputDecoration(
+                            labelText: 'Nhập số thứ tự câu hỏi',
+                            labelStyle: TextStyle(
+                                color: Colors.grey.shade800,
+                                fontWeight: FontWeight.w600),
+                            border: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(25),
+                            ),
+                            suffixIcon: IconButton(
+                              icon: const Icon(Icons.search),
+                              onPressed: () {
+                                int id = int.tryParse(idController.text) ?? -1;
+                                gotoQuestionById(id - 1, data.length);
+                              },
                             ),
                           ),
                         ),
@@ -204,9 +235,7 @@ class _QuizScreenState extends State<QuizScreen> {
                           ),
                         ),
                       ),
-                      const SizedBox(
-                        height: 20,
-                      ),
+                      const SizedBox(height: 20),
                       Text(
                         data[currentIndexOfQuestion]['question'],
                         style: const TextStyle(
@@ -214,9 +243,9 @@ class _QuizScreenState extends State<QuizScreen> {
                           fontSize: 20,
                         ),
                       ),
-                      // question choice here
                       const SizedBox(height: 20),
                       ListView.builder(
+                        physics: const BouncingScrollPhysics(),
                         shrinkWrap: true,
                         itemCount: optionList.length,
                         itemBuilder: (BuildContext context, index) {
@@ -239,7 +268,6 @@ class _QuizScreenState extends State<QuizScreen> {
                                   setState(
                                     () {
                                       stopTimer();
-                                      HapticFeedback.lightImpact();
                                       if (correctAnswser.toString() == answer) {
                                         optionColor[index] = Colors.green;
                                         ScaffoldMessenger.of(context)
@@ -250,13 +278,12 @@ class _QuizScreenState extends State<QuizScreen> {
                                                 content: Text(
                                                     "$correctAnswser là câu trả lời đúng")));
                                         listcorrectAnswer.add(id);
-
+                                        HapticFeedback.lightImpact();
                                         endgame(data);
                                       } else {
                                         optionColor[index] = Colors.red;
                                         listincorrectAnswer.add(id);
-
-                                        print(listincorrectAnswer);
+                                        HapticFeedback.heavyImpact();
 
                                         showDialog(
                                             barrierDismissible: false,
@@ -267,16 +294,6 @@ class _QuizScreenState extends State<QuizScreen> {
                                                     MainAxisAlignment.center,
                                                 alignment:
                                                     Alignment.bottomCenter,
-                                                // title: Text(
-                                                //   data[currentIndexOfQuestion]
-                                                //       ['correct_answer'],
-                                                //   style: TextStyle(
-                                                //       fontSize: 20,
-                                                //       fontWeight:
-                                                //           FontWeight.bold,
-                                                //       color: Colors
-                                                //           .green.shade700),
-                                                // ),
                                                 content: Container(
                                                   height: 100,
                                                   child: Center(
@@ -298,36 +315,16 @@ class _QuizScreenState extends State<QuizScreen> {
                                                       if (currentIndexOfQuestion <
                                                           data.length - 1) {
                                                         Navigator.pop(context);
-                                                        Future.delayed(
-                                                            const Duration(
-                                                                milliseconds:
-                                                                    200), () {
-                                                          gotoNextQuestion();
-                                                        });
+                                                        endgame(data);
                                                       } else {
                                                         timer!.cancel();
+                                                        Navigator.pop(context);
+                                                        endgame(data);
                                                       }
                                                     },
                                                     child: const Icon(
                                                         Icons.cancel_outlined),
                                                   ),
-                                                  // TextButton(
-                                                  //   onPressed: () {
-                                                  //     if (currentIndexOfQuestion <
-                                                  //         data.length - 1) {
-                                                  //       Navigator.pop(context);
-                                                  //       Future.delayed(
-                                                  //           const Duration(
-                                                  //               milliseconds:
-                                                  //                   200), () {
-                                                  //         gotoNextQuestion();
-                                                  //       });
-                                                  //     } else {
-                                                  //       timer!.cancel();
-                                                  //     }
-                                                  //   },
-                                                  //   child:
-                                                  // )
                                                 ],
                                               );
                                             });

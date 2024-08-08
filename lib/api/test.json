@@ -1,0 +1,342 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "1",
+        "question": "Lịch sử là gì?",
+        "correct_answer": "Những gì đã diễn ra trong quá khứ",
+        "incorrect_answers": [
+          "Những sự kiện xảy ra trong tương lai",
+          "Những câu chuyện thần thoại",
+          "Những dự đoán về tương lai"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "2",
+        "question": "Ví dụ cụ thể về lịch sử là gì?",
+        "correct_answer": "Cuộc cách mạng công nghiệp",
+        "incorrect_answers": [
+          "Phim ảnh hiện đại",
+          "Truyện cổ tích",
+          "Thời trang năm 2020"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "3",
+        "question": "Môn Lịch sử là môn khoa học tìm hiểu về gì?",
+        "correct_answer": "Lịch sử loài người",
+        "incorrect_answers": [
+          "Động vật và thực vật",
+          "Thiên văn học",
+          "Nghệ thuật và văn hóa"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "4",
+        "question": "Lịch sử loài người bao gồm gì?",
+        "correct_answer": "Toàn bộ những hoạt động của con người và xã hội loài người trong quá khứ",
+        "incorrect_answers": [
+          "Chỉ các sự kiện chiến tranh",
+          "Các hoạt động khoa học",
+          "Các phát minh công nghệ"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "5",
+        "question": "Khi quan sát một bức tranh lịch sử câu hỏi nào có thể được đặt ra để tìm hiểu về quá khứ?",
+        "correct_answer": "Những gì đang diễn ra trong bức tranh?",
+        "incorrect_answers": [
+          "Bức tranh này được vẽ bằng chất liệu gì?",
+          "Ai là người tạo ra bức tranh này?",
+          "Màu sắc của bức tranh có đẹp không?"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "6",
+        "question": "Mọi sự vật xung quanh chúng ta đều làm gì theo thời gian?",
+        "correct_answer": "Phát sinh, tồn tại và biến đổi",
+        "incorrect_answers": [
+          "Biến mất hoàn toàn",
+          "Không thay đổi",
+          "Phát triển và mãi mãi tồn tại"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "7",
+        "question": "Xã hội loài người cũng có quá trình gì?",
+        "correct_answer": "Phát sinh, tồn tại và biến đổi",
+        "incorrect_answers": [
+          "Không thay đổi",
+          "Biến mất hoàn toàn",
+          "Chỉ phát triển không ngừng"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "8",
+        "question": "Lịch sử giúp chúng ta học hỏi điều gì?",
+        "correct_answer": "Các sai lầm và thành công trong quá khứ",
+        "incorrect_answers": [
+          "Các xu hướng hiện tại",
+          "Các phong trào nghệ thuật",
+          "Các ngôn ngữ mới"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "9",
+        "question": "Môn Lịch sử giúp chúng ta phân biệt điều gì?",
+        "correct_answer": "Quá khứ, hiện tại và tương lai",
+        "incorrect_answers": [
+          "Các loài động vật",
+          "Các loại cây trồng",
+          "Các ngôn ngữ cổ"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "10",
+        "question": "Tại sao cần học môn Lịch sử?",
+        "correct_answer": "Để hiểu rõ quá khứ và rút ra bài học cho tương lai",
+        "incorrect_answers": [
+          "Để giải trí",
+          "Để viết truyện",
+          "Để vẽ tranh"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "11",
+        "question": "Lịch sử giúp chúng ta học hỏi điều gì?",
+        "correct_answer": "Các sai lầm và thành công trong quá khứ",
+        "incorrect_answers": [
+          "Các xu hướng hiện tại",
+          "Các phong trào nghệ thuật",
+          "Các ngôn ngữ mới"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "12",
+        "question": "Môn Lịch sử giúp chúng ta phân biệt điều gì?",
+        "correct_answer": "Quá khứ, hiện tại và tương lai",
+        "incorrect_answers": [
+          "Các loài động vật",
+          "Các loại cây trồng",
+          "Các ngôn ngữ cổ"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "13",
+        "question": "Mọi sự vật xung quanh chúng ta đều làm gì theo thời gian?",
+        "correct_answer": "Phát sinh, tồn tại và biến đổi",
+        "incorrect_answers": [
+          "Biến mất hoàn toàn",
+          "Không thay đổi",
+          "Phát triển và mãi mãi tồn tại"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "LỊCH SỬ VÀ MÔN LỊCH SỬ",
+        "category": "History",
+        "id": "14",
+        "question": "Xã hội loài người cũng có quá trình gì?",
+        "correct_answer": "Phát sinh, tồn tại và biến đổi",
+        "incorrect_answers": [
+          "Không thay đổi",
+          "Biến mất hoàn toàn",
+          "Chỉ phát triển không ngừng"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "1",
+        "question": "Tại sao có người cho rằng không cần học môn Lịch sử?",
+        "correct_answer": "Vì lịch sử là những gì đã qua, không thể thay đổi được",
+        "incorrect_answers": [
+          "Vì lịch sử không quan trọng",
+          "Vì học lịch sử khó hiểu",
+          "Vì lịch sử không liên quan đến cuộc sống hiện tại"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "2",     
+        "question": "Em có đồng ý với ý kiến rằng không cần học môn Lịch sử không? Tại sao?",    
+        "correct_answer": "Không đồng ý, vì học lịch sử giúp chúng ta hiểu về cội nguồn và đúc kết bài học kinh nghiệm",
+        "incorrect_answers": [
+          "Đồng ý, vì lịch sử đã qua và không thể thay đổi",
+          "Đồng ý, vì học lịch sử rất khó khăn",
+          "Không đồng ý, vì lịch sử chỉ là một môn học phụ"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "3",
+        "question": "Từ 'gốc tích' trong câu thơ của Chủ tịch Hồ Chí Minh có nghĩa là gì?",
+        "correct_answer": "Cội nguồn",
+        "incorrect_answers": [
+          "Tương lai",
+          "Hiện tại",
+          "Sự phát triển"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "4",
+        "question": "Câu thơ 'Dân ta phải biết sử ta Cho tường gốc tích nước nhà Việt Nam' của Chủ tịch Hồ Chí Minh có ý nghĩa gì?",
+        "correct_answer": "Nhấn mạnh tầm quan trọng của việc hiểu biết về lịch sử của dân tộc",
+        "incorrect_answers": [
+          "Khuyến khích học tập ngôn ngữ",
+          "Khuyến khích phát triển kinh tế",
+          "Nhấn mạnh việc giữ gìn văn hóa truyền thống"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "5",
+        "question": "Học lịch sử giúp chúng ta hiểu được điều gì?",
+        "correct_answer": "Cội nguồn của tổ tiên, quê hương, đất nước",
+        "incorrect_answers": [
+          "Các phát minh khoa học",
+          "Các phong trào nghệ thuật",
+          "Các ngôn ngữ cổ"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "6",
+        "question": "Ông cha ta đã phải làm gì để có được đất nước ngày nay?",
+        "correct_answer": "Lao động sáng tạo và đấu tranh",
+        "incorrect_answers": [
+          "Du lịch và giải trí",
+          "Học tập và nghiên cứu",
+          "Kinh doanh và thương mại"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "7",
+        "question": "Học lịch sử giúp chúng ta đúc kết điều gì?",
+        "correct_answer": "Những bài học kinh nghiệm của quá khứ",
+        "incorrect_answers": [
+          "Các xu hướng thời trang",
+          "Các phong cách nghệ thuật",
+          "Các ngôn ngữ mới"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "8",
+        "question": "Học lịch sử có ích gì cho hiện tại và tương lai?",
+        "correct_answer": "Giúp đúc kết kinh nghiệm từ quá khứ để phục vụ cho hiện tại và tương lai",
+        "incorrect_answers": [
+          "Giúp giải trí và thư giãn",
+          "Giúp học tập các môn học khác",
+          "Giúp phát triển kỹ năng nghệ thuật"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "9",
+        "question": "Câu thơ của Chủ tịch Hồ Chí Minh nhấn mạnh điều gì?",
+        "correct_answer": "Tầm quan trọng của việc học lịch sử",
+        "incorrect_answers": [
+          "Tầm quan trọng của việc phát triển kinh tế",
+          "Tầm quan trọng của việc bảo vệ môi trường",
+          "Tầm quan trọng của việc giữ gìn sức khỏe"
+        ]
+      },
+      {
+        "chapter": "CHƯƠNG 1",
+        "lesson": "BÀI 1: LỊCH SỬ LÀ GÌ?",
+        "section": "VÌ SAO PHẢI HỌC LỊCH SỬ?",
+        "category": "History",
+        "id": "10",
+        "question": "Học lịch sử giúp chúng ta nhận ra điều gì về ông cha ta?",
+        "correct_answer": "Những khó khăn và nỗ lực mà ông cha ta đã trải qua",
+        "incorrect_answers": [
+          "Những thành tựu nghệ thuật của ông cha ta",
+          "Những phát minh công nghệ của ông cha ta",
+          "Những xu hướng thời trang của ông cha ta"
+        ]
+      }
+    ]
+  }
+  

@@ -98,11 +98,15 @@ class _QuizScreenState extends State<QuizScreen2> {
     } else {
       timer!.cancel();
       Navigator.push(
-          context,
-          MaterialPageRoute(
-              builder: (_) => ResultScreen(
-                  listcorrectAnswser: listcorrectAnswer,
-                  listincorrectAnswser: listincorrectAnswer)));
+        context,
+        MaterialPageRoute(
+          builder: (_) => ResultScreen(
+            listcorrectAnswser: listcorrectAnswer,
+            listincorrectAnswser: listincorrectAnswer,
+            totalQuestion: currentIndexOfQuestion + 1,
+          ),
+        ),
+      );
     }
   }
 
